@@ -1,6 +1,6 @@
 # Nick Cave lyric database
 
-Kind of foolish to start this a week before *Wild God*, but here I am. I realize the main feature of this tempalte is `scraper.py` that uses Genius' API, but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤). I'm basically doing this by hand:
+Kind of foolish to start this a week before *Wild God*, but here I am. This template's scraper uses Genius API but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤). I'm basically doing this by hand:
 
 ```python
 ARTIST_ID = 1177
@@ -35,6 +35,5 @@ The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's of
 
 ### 2024 Aug 22
 - Created `album_map.json`, `lyrics.csv`, `lyrics.json`, `songs.csv` and `song_titles.txt`.
-- Deleted `scraper.py`,  `local.py.default` and `requirements.txt` now that I've realized I did this shit by hand and more faithfully tbh
-
+- Deleted `scraper.py`,  `local.py.default` and `requirements.txt` — a mistake?
 
