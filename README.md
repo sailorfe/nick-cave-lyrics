@@ -11,7 +11,6 @@ Kind of foolish to start this a week before *Wild God*, but here I am. These lyr
 - "Distant Sky:" [Does not currently have a lyric up](https://www.nickcave.com/lyric/distant-sky/), so this is transcribed.
 - "Skeleton Tree:" Removed double linebreaks.
 - All of *Carnage*: Removed double linebreaks.
-- "White Elephant": Removed "*For Thomas H*" from since it is not sung or spoken on the recording.
 - "Wild God": Removed double linebreaks, and I suspect will do for the rest of the album.
 
 **Quirks**
