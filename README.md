@@ -1,6 +1,6 @@
 # Nick Cave lyric scraper
 
-Kind of foolish to start this a week before *Wild God*, but here I am. I realize the main feature of this tempalte is `scraper.py` that uses Genius' API, but as far as I'm concern, Genius is a secondary source when Nick Cave publishes all NC&TBS and Grinderman straight to his website (beloved old man blgoger). I'm basically doing this by hand:
+Kind of foolish to start this a week before *Wild God*, but here I am. I realize the main feature of this tempalte is `scraper.py` that uses Genius' API, but as far as I'm concern, Genius is a secondary source when Nick Cave publishes all NC&TBS and Grinderman straight to his website (old man blogger 🖤). I'm basically doing this by hand:
 
 ```python
 ARTIST_ID = 1177
