@@ -1,6 +1,6 @@
 # Nick Cave lyric scraper
 
-Kind of foolish to start this a week before *Wild God*, but here I am. These lyrics are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
+Kind of foolish to start this a week before *Wild God*, but here I am. Rather than pull from Spotify's API (which is wildly inaccurate and makes me question whether this template is a good match after all), these lyrics are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
 
 - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
 - *Abattoir Blues / The Lyre Of Orpheus* are split into two albums.
