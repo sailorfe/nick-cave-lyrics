@@ -1,4 +1,4 @@
-# Nick Cave lyric scraper
+# Nick Cave lyric dataset
 
 Kind of foolish to start this a week before *Wild God*, but here I am. I realize the main feature of this tempalte is `scraper.py` that uses Genius' API, but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤). I'm basically doing this by hand:
 
