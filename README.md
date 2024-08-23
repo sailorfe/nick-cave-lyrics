@@ -1,12 +1,17 @@
 # Nick Cave lyric scraper
 
-Accurate to Nick Cave's official website as of 22 Aug 2024 besides these editorial choices:
+Kind of foolish to start this a week before *Wild God*, but here I am. These lyrics are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
 
-- "There Is A Kingdom": First line was missing a linebreak
+- "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
 - *Abattoir Blues / The Lyre Of Orpheus* are split into two albums.
-- "O Children": Was missing spaces after the exclamation points.
-- *Carnage*, "Anthrocene," "I Need You", "Skeleton Tree," and every song on *Grinderman 2* except "Palaces of Montezuma": Removed double linebreaks for .csv parsing.
+- "O Children:" Was missing spaces after each "Hey little train!"
+- All of *Grinderman 2* except for "Palaces of Montezuma:" Removed double linebreaks.
+- "Anthrocene:" Removed double linebreaks.
+- "I Need You:" Removed double linebreaks.
+- "Skeleton Tree:" Removed double linebreaks.
+- All of *Carnage*: Removed double linebreaks.
 - "White Elephant": Removed "*For Thomas H*" from since it is not sung or spoken on the recording.
+- "Wild God": Removed double linebreaks.
 
 **Quirks**
 - I refuse to edit *DIG!!! LAZARUS DIG!!!* for legibility/scrapabilty. He was on some poetic puncutation kick that I respect.
@@ -15,7 +20,7 @@ Accurate to Nick Cave's official website as of 22 Aug 2024 besides these editori
 ## Changelog
 
 ### 2024 Aug 22
-- Created 'songs.csv' and 'song_titles.txt'.
+- Created `songs.csv` and `song_titles.txt`.
 
 
 
