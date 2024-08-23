@@ -22,7 +22,7 @@ Kind of foolish to start this a week before *Wild God*, but here I am. These lyr
 ## Changelog
 
 ### 2024 Aug 22
-- Created `album_map.json`, `lyrics.json`, `songs.csv` and `song_titles.txt`.
+- Created `album_map.json`, `lyrics.csv`, `lyrics.json`, `songs.csv` and `song_titles.txt`.
 
 
 
