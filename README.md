@@ -8,14 +8,17 @@ Kind of foolish to start this a week before *Wild God*, but here I am. These lyr
 - All of *Grinderman 2* except for "Palaces of Montezuma:" Removed double linebreaks.
 - "Anthrocene:" Removed double linebreaks.
 - "I Need You:" Removed double linebreaks.
+- "Distant Sky:" [Does not currently have a lyric up](https://www.nickcave.com/lyric/distant-sky/), so this is transcribed.
 - "Skeleton Tree:" Removed double linebreaks.
 - All of *Carnage*: Removed double linebreaks.
 - "White Elephant": Removed "*For Thomas H*" from since it is not sung or spoken on the recording.
-- "Wild God": Removed double linebreaks.
+- "Wild God": Removed double linebreaks, and I suspect will do for the rest of the album.
 
 **Quirks**
 - I refuse to edit *DIG!!! LAZARUS DIG!!!* for legibility/scrapabilty. He was on some poetic puncutation kick that I respect.
-- He writes just "Chorus" or "(Chorus)" on "Babe, I'm On Fire", "Let The Bells Ring" so I might or might not replace those with the actual chorus text
+- He writes just "Chorus" or "(Chorus)" on "Babe, I'm On Fire" and "Let The Bells Ring." I may or may not replace those with the actual chorus text later.
+- "Hollywood" has a four asterik ("****") divider; included because Nick does despite not being telligible lyrically
+- "White Elephant" has a dedication "*For Thomas H*"; see previous reasoning
 
 ## Changelog
 
