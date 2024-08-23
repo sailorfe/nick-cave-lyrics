@@ -35,6 +35,6 @@ The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's of
 
 ### 2024 Aug 22
 - Created `album_map.json`, `lyrics.csv`, `lyrics.json`, `songs.csv` and `song_titles.txt`.
-
+- Deleted `scraper.py`,  `local.py.default` and `requirements.txt` now that I've realized I did this shit by hand and more faithfully tbh
 
 
