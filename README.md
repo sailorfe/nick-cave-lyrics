@@ -1,6 +1,18 @@
 # Nick Cave lyric scraper
 
-Kind of foolish to start this a week before *Wild God*, but here I am. Rather than pull from Spotify's API (which is wildly inaccurate and makes me question whether this template is a good match after all), these lyrics are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
+Kind of foolish to start this a week before *Wild God*, but here I am. I realize the main feature of this tempalte is `scraper.py` that uses Genius' API, but as far as I'm concern, Genius is a secondary source when Nick Cave publishes all NC&TBS and Grinderman straight to his website (beloved old man blgoger). I'm basically doing this by hand:
+
+```python
+ARTIST_ID = 1177
+API_PATH = "https://api.genius.com"
+ARTIST_URL = API_PATH + "/artists/" + str(ARTIST_ID)
+CSV_PATH = 'songs.csv'
+LYRIC_PATH = 'lyrics.csv'
+LYRIC_JSON_PATH = 'lyrics.json'
+SONG_LIST_PATH = 'song_titles.txt'
+```
+
+The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
 
 - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
 - *Abattoir Blues / The Lyre Of Orpheus* are split into two albums.
