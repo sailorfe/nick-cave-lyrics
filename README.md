@@ -22,6 +22,10 @@ Additionally,
 
 ## Changelog
 
+### 2024 Aug 24
+- Updated license.
+- Deleted `album_map.json` and `song_titles.txt`.
+
 ### 2024 Aug 23
 - *Abattoir Blues / The Lyre of Orpheus* are back to being one album;
     `album_map.json`, `lyrics.csv`, `lyrics.json`, `songs.csv` edited.
