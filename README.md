@@ -23,6 +23,7 @@ Additionally,
 ## Changelog
 
 ### 2024 Aug 24
+- Only files now are `songs.csv` and `songs.json`.
 - Updated license.
 - Deleted `album_map.json` and `song_titles.txt`.
 

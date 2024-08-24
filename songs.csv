@@ -1,5 +1,5 @@
-Title,Album,Lyric
-Avalanche,From Her To Eternity,"I stepped into an avalanche
+Title,Album,Artist,Year,Lyric
+Avalanche,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"I stepped into an avalanche
 It covered up my soul
 When I am not this hunchback that you see
 I sleep beneath the golden hill
@@ -40,7 +40,7 @@ And do not love me quite so fiercely now
 When you know that you are not sure
 It is your turn, my beloved one
 It is your flesh that I wear"
-Cabin Fever,From Her To Eternity,"The Captain’s fore-arm like bunched-up rope
+Cabin Fever,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"The Captain’s fore-arm like bunched-up rope
 With A-N-I-T-A wriggling free on a skull’n’dagger
 And a portrait of Christ, nailed to an anchor
 Etched into his upper…
@@ -84,7 +84,7 @@ Whips all the bottles that he’s drunken
 Like crystal – skittles about the cabin
 Of a ship they’d been sailing
 Five years sunken"
-Well Of Misery,From Her To Eternity,"Along crags and sunless cracks I go
+Well Of Misery,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"Along crags and sunless cracks I go
 Up rib of rock, down spine of stone
 I dare not slumber where the night winds whistle
 Lest her creeping-soul clutch this heart of thistle
@@ -113,7 +113,7 @@ O the same God that abandoned her
 Has, in turn abandoned me
 Deep in the Desert of Despair
 I wait at the Well Of Misery"
-From Her To Eternity,From Her To Eternity,"Ah wanna tell ya ’bout a girl
+From Her To Eternity,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"Ah wanna tell ya ’bout a girl
 You know, she lives in apt. 29
 Why? That’s the one right up top a mine
 I start to cry, I start to cry
@@ -166,7 +166,7 @@ O o o then ya know
 That lil girl would just have to go!
 Go! Go!
 From her to eternity!"
-Saint Huck,From Her To Eternity,"Born of the river,
+Saint Huck,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"Born of the river,
 Born of its ever-changing, never-changing murky water
 Huck standing like a Saint, upon its deck
 If ya wanna catch a Saint,
@@ -221,7 +221,7 @@ And the two dollar fucks
 O o o ya outta luck, ya outta luck
 Woah-woah-woah-woah
 Woah-woah-woah-woah Saint Huck! Huck!"
-Wings Off Flies,From Her To Eternity,"She loves me, she loves me not
+Wings Off Flies,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"She loves me, she loves me not
 She loves me, she loves me not
 
 We-e-ll, ah’ve spent seven days and seven nights
@@ -255,7 +255,7 @@ Filler up, Joe..
 Hey! Ah am obliged! Ah am obliged!
 Wings off Flies, She loves me, she loves me not
 Wings off Flies etc… ad infinitum"
-A Box For Black Paul,From Her To Eternity,"Who’ll build a box for black Paul?
+A Box For Black Paul,From Her To Eternity,Nick Cave and the Bad Seeds,1984,"Who’ll build a box for black Paul?
 Ah’m enquirin on behalf of his soul
 Ah’d be beholdin to ya all
 For a lil information just a little indication
@@ -349,7 +349,7 @@ These are the true Demon-Flowers!!
 Blue-Black every one! Stand back everyone!
 Who’ll build a box for Black Paul?
 Who’ll carry it up the hill?"
-Tupelo,The Firstborn Is Dead,"Looka yonder! Looka yonder! Looka yonder! A big black cloud come! O comes to Tupelo. Comes to Tupelo
+Tupelo,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"Looka yonder! Looka yonder! Looka yonder! A big black cloud come! O comes to Tupelo. Comes to Tupelo
 
 Yonder on the horizon. Stopped at the mighty river and. Sucked the damn thing dry. Tupelo-o-o, O Tupelo. In a valley hides a town called Tupelo.
 
@@ -368,7 +368,7 @@ In a clap-board shack with a roof of tin. Where the rain came down and leaked wi
 Well Saturday gives what Sunday steals. And a child is born on his brothers heels. Come Sunday morn the first-born dead. In a shoe-box tied with a ribbon of red. Tupelo-o-o! Hey Tupelo! In a shoe-box buried with a ribbon of red.
 
 O ma-ma rock you lil’ one slow. O ma-ma rock your baby. O ma-ma rock your lil’ one slow. O God help Tupelo! O God help Tupelo! Mama rock your lil’ one slow. The lil one will walk on Tupelo. Tupelo-o-o! Yeah Tupelo! And carry the burden of Tupelo. Tupelo-o-o! O Tupelo! Yeah! The King will walk on Tupelo! Tupelo-o-o! O Tupelo! He carried the burden outa Tupelo! Tupelo-o-o! Hey Tupelo! You will reap just what you sow."
-Say Goodbye To The Little Girl Tree,The Firstborn Is Dead,"O say goodbye to the little girl tree.
+Say Goodbye To The Little Girl Tree,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"O say goodbye to the little girl tree.
 O you know that I must say goodbye.
 To the little girl tree.
 This wall I built around you.
@@ -425,7 +425,7 @@ Down down down and goodbye.
 For you know that I must die.
 Yes you know that I must die.
 O-o you know that I must die."
-Train Long Suffering,The Firstborn Is Dead,"Woo-wooooooo Woo!
+Train Long Suffering,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"Woo-wooooooo Woo!
 In the name of pain!
 (In the name of pain and suffering)
 In the name of pain!
@@ -520,7 +520,7 @@ And the name of the pain is…
 The name of the train is…
 The name of the train is.
 Pain and suffering."
-Black Crow King,The Firstborn Is Dead,"Mmmmm Mmmmmm Mmmmm
+Black Crow King,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"Mmmmm Mmmmmm Mmmmm
 I am the black crow king
 Mmmmmmm Mmmmm Mmmmmmm
 I am the black crow king
@@ -590,7 +590,7 @@ The storm is a-rolling
 Down on me
 Rolling down on me
 Rolling down on me"
-Knockin' On Joe,The Firstborn Is Dead,"These chains of sorrow, they are heavy, it is true
+Knockin' On Joe,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"These chains of sorrow, they are heavy, it is true
 And these locks cannot be broken, no, not with one thousand keys
 O Jailer, you wear a ball-n-chain you cannot see
 You can lay your burden on me
@@ -650,7 +650,7 @@ You can lay your burden down upon me
 Knockin’ on Joe
 You can’t hurt me anymore
 Knockin’ on Joe"
-Wanted Man,The Firstborn Is Dead,"I’m a wanted man, wanted man…
+Wanted Man,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"I’m a wanted man, wanted man…
 I’m wanted, I’m a wanted man…
 Oh yeah…
 Yeah…
@@ -750,7 +750,7 @@ Wanted man…
 Wanted man…
 If the devil comes collectin’
 He better hold a six gun in his hand"
-Blind Lemon Jefferson,The Firstborn Is Dead,"Blind Lemon Jefferson is a-comin.
+Blind Lemon Jefferson,The Firstborn Is Dead,Nick Cave and the Bad Seeds,1985,"Blind Lemon Jefferson is a-comin.
 Tap tap tappin with his cane.
 Blind Lemon Jefferson is a-comin.
 Tap tap tappin with his cane.
@@ -784,7 +784,7 @@ If that sky serves as his eyes
 Then that moon’s a cataract.
 Let’s roll!
 Yeah let’s roll!"
-Muddy Water,Kicking Against The Pricks,"Mary, grab the baby, the river’s rising
+Muddy Water,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Mary, grab the baby, the river’s rising
 Muddy water taking back the land
 The old-frame house, she can’t take-a one more beating
 Ain’t no use to stay and make a stand
@@ -815,7 +815,7 @@ Mary, take the child, the river’s rising
 Muddy water’s changing all I know
 Muddy water’s changing all I know
 Lord, this muddy water is taking back my home"
-I'm Gonna Kill That Woman,Kicking Against The Pricks,"Yeah, my baby left me this morning
+I'm Gonna Kill That Woman,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Yeah, my baby left me this morning
 And I don’t care now, I don’t care what the people say
 
 Yeah, my baby left me this morning
@@ -850,7 +850,7 @@ But I don’t care what the people say
 I’m gonna kill that woman
 I’m gonna kill that woman, God knows
 I’m gonna get down on my knees"
-Sleeping Annaleah,Kicking Against The Pricks,"Yesterday the sun was shining but you’re finding the sun it
+Sleeping Annaleah,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Yesterday the sun was shining but you’re finding the sun it
 Don’t shine all the time
 A winter day suddenly came your way
 And you ran into your mind
@@ -881,7 +881,7 @@ Sleeping Annaleah
 Weeping Annaleah
 Sleeping Annaleah
 Weeping Annaleah"
-Long Black Veil,Kicking Against The Pricks,"She walks these hills in a long black veil
+Long Black Veil,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"She walks these hills in a long black veil
 She visits my grave when the night winds wail
 Nobody knows, nobody sees
 Nobody knows but me
@@ -913,7 +913,7 @@ Nobody knows but me
 No, no, nobody knows but me
 I said nobody knows but me
 Yeah nobody knows but me"
-Hey Joe,Kicking Against The Pricks,"Hey Joe
+Hey Joe,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Hey Joe
 Where you going with that gun in your hand?
 Hey Joe
 Where you going with that gun in your hand?
@@ -939,7 +939,7 @@ I’m heading way down South
 Where I can be free
 I’m heading Mexico way
 No hangman’s about to put a leash around me"
-The Singer,Kicking Against The Pricks,"As I walk these narrow streets
+The Singer,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"As I walk these narrow streets
 Where a million passin feet have trod before me
 With my guitar in my hand
 Suddenly I realize nobody knows me
@@ -967,7 +967,7 @@ With the rain on my face
 There is no place where I belong
 Did you forget this fucking singer so soon?
 And did you forget my song?"
-All Tomorrow's Parties,Kicking Against The Pricks,"And what costume shall the poor girl wear
+All Tomorrow's Parties,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"And what costume shall the poor girl wear
 To all tomorrow’s parties
 
 A hand-me-down dress from who knows where
@@ -996,7 +996,7 @@ A blackened shroud, a hand-me-down gown
 Of rags and silks, a costume
 Fit for one who sits and cries
 For all tomorrow’s parties"
-By The Time I Get To Phoenix,Kicking Against The Pricks,"By the time I get to Phoenix, she’ll be rising
+By The Time I Get To Phoenix,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"By the time I get to Phoenix, she’ll be rising
 And she’ll find that note that I left hanging on the door
 And she’ll laugh when she reads the part
 That says: “I’m leaving”
@@ -1014,7 +1014,7 @@ That I’d really leave her, I left her
 But time after time after time I tried to tell her so
 But she just didn’t know that I would really go
 That I would really go"
-The Hammer Song,Kicking Against The Pricks,"“Oh please, don’t sell me out”
+The Hammer Song,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"“Oh please, don’t sell me out”
 Said the man with the hammer
 Hammering the anvil
 “I’ve been walking on the road of rocks
@@ -1073,7 +1073,7 @@ Hammering the anvil
 
 I’m gonna keep on, keep on, keep on, keep on hammering
 I’m gonna keep on, keep on, keep on, keep on hammering"
-Something's Gotten Hold Of My Heart,Kicking Against The Pricks,"Something’s gotten hold of my heart
+Something's Gotten Hold Of My Heart,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Something’s gotten hold of my heart
 Keeping my soul and my senses apart
 Something’s gotten into my life
 Cutting its way through my dreams like a knife
@@ -1108,7 +1108,7 @@ Something has invaded my nights
 Painting my sleep with a colour so bright
 Changing the grey and changing the blue
 Scarlet for me and scarlet for you"
-Jesus Met The Woman At The Well,Kicking Against The Pricks,"Jesus met the woman at the well
+Jesus Met The Woman At The Well,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Jesus met the woman at the well
 Jesus met the woman at the well
 And he told her, everything that she’d done, that she’d done
 
@@ -1124,7 +1124,7 @@ She went running, crying, God help me
 She said whoa, whoa, whoa, whoa, you must be the prophet
 She said whoa, whoa, whoa, whoa, you must be the prophet
 Because you told me everything that I’ve done, that I’ve done"
-The Carnival Is Over,Kicking Against The Pricks,"Say goodbye, my one true lover
+The Carnival Is Over,Kicking Against The Pricks,Nick Cave and the Bad Seeds,1986,"Say goodbye, my one true lover
 And we’ll steal a lover’s song
 How it breaks my heart to leave you
 Now the carnival has gone
@@ -1145,7 +1145,7 @@ Though the carnival is over
 I will love you till I die
 I will love you till I die
 Yeah, I will love you till I die"
-Sad Waters,Your Funeral… My Trial,"Down the road I look and there runs Mary
+Sad Waters,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"Down the road I look and there runs Mary
 Hair of gold and lips like cherries
 We go down to the river where the willows weep
 Take a naked root for a lover’s seat
@@ -1167,7 +1167,7 @@ Mary in the shallows laughing
 Over where the carp dart
 Spooked by the new shadows that she cast
 Across these sad waters and across my heart"
-The Carny,Your Funeral… My Trial,"And no-one saw the carny go
+The Carny,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"And no-one saw the carny go
 And the weeks flew by
 Until they moved on the show
 Leaving his caravan behind
@@ -1229,7 +1229,7 @@ And the carny’s van still sat upon the edge
 Tilting slowly as the firm ground turned to sludge
 And the rain it hammered down
 And no-one saw the carny go I say it’s funny how things go"
-Your Funeral… My Trial,Your Funeral… My Trial,"I am a crooked man
+Your Funeral… My Trial,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"I am a crooked man
 And I’ve walked a crooked mile
 Night, the shameless widow
 Doffed her weeds, in a pile
@@ -1252,7 +1252,7 @@ All the crooked bitches that she was
 Saw the moon
 Become a fang
 Your funeral, my trial"
-Stranger Than Kindness,Your Funeral… My Trial,"Stranger than kindness
+Stranger Than Kindness,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"Stranger than kindness
 Bottled light from hotels
 Spilling everything
 Wet hand from the volcano
@@ -1281,7 +1281,7 @@ Stranger than kindness
 You hold me so carelessly close
 Tell me I’m dirty
 Stranger than kindness"
-Jack's Shadow,Your Funeral… My Trial,"They dragged Jack and his shadow
+Jack's Shadow,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"They dragged Jack and his shadow
 From the hole
 And the bulb that burned above him
 Did shine both day and night
@@ -1339,7 +1339,7 @@ And is it any wonder?
 ‘Tis done in brighter corners now
 ‘Tis done in brighter corners now
 Now that Jack’s black shadow’s gone"
-Hard On For Love,Your Funeral… My Trial,"It is for she that the cherry bleeds
+Hard On For Love,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"It is for she that the cherry bleeds
 That the moon is steeped in milk and blood
 That I steal like a robber
 From her altar of love
@@ -1397,7 +1397,7 @@ Just when I’m about to get my hands on her
 Just when I’m about to get my hands on her
 Hard on for love hard on for love
 Hard on for love hard on for love"
-She Fell Away,Your Funeral… My Trial,"Once she lay open like a road
+She Fell Away,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"Once she lay open like a road
 Carved apart the madness that I stumbled from
 But she fell away
 She fell away
@@ -1424,7 +1424,7 @@ Sometimes I wonder was she ever there at all
 She fell away
 She fell away
 She fell away"
-Long Time Man,Your Funeral… My Trial,"Yeah, they came to take me away
+Long Time Man,Your Funeral… My Trial,Nick Cave and the Bad Seeds,1986,"Yeah, they came to take me away
 Said I’d be sitting here for the rest of my life
 But I don’t really care – I shot my wife
 And brother, I can’t even remember the reason why
@@ -1462,7 +1462,7 @@ I ain’t had those lips, those lips, around me
 It sure makes a long time man feel bad, so bad
 It sure makes a long time man feel bad, so bad
 It sure makes a long time man feel bad, yeah so bad"
-The Mercy Seat,Tender Prey,"It began when they come took me from my home
+The Mercy Seat,Tender Prey,Nick Cave and the Bad Seeds,1988,"It began when they come took me from my home
 And put me in Dead Row,
 Of which I am nearly wholly innocent, you know.
 And I’ll say it again
@@ -1590,7 +1590,7 @@ An eye for an eye
 And a truth for a truth
 And anyway I told the truth
 But I’m afraid I told a lie."
-Up Jumped The Devil,Tender Prey,"O My O My
+Up Jumped The Devil,Tender Prey,Nick Cave and the Bad Seeds,1988,"O My O My
 What a wretched life
 I was born on the day
 That my poor mother died
@@ -1664,7 +1664,7 @@ To Eternity Down we go We go down down down
 Down we go we go down down down
 Down we go the Devil and me to Eternity
 We go down down down down down ad inferno"
-Deanna,Tender Prey,"O DEANNA
+Deanna,Tender Prey,Nick Cave and the Bad Seeds,1988,"O DEANNA
 O Deanna!
 O DEANNA
 Sweet Deanna!
@@ -1753,7 +1753,7 @@ And I ain’t down here for your money
 I ain’t down here for your love
 I ain’t down here for your love of money
 I’m down here for your soul"
-Watching Alice,Tender Prey,"Alice wakes
+Watching Alice,Tender Prey,Nick Cave and the Bad Seeds,1988,"Alice wakes
 It is morning
 She is yawning
 As she walks about the room
@@ -1777,7 +1777,7 @@ Watching Alice dressing in her room
 It’s so depressing, it’s cruel
 Watching Alice dressing in her room
 It’s so depressing, it’s true"
-Mercy,Tender Prey,"I stood in the water
+Mercy,Tender Prey,Nick Cave and the Bad Seeds,1988,"I stood in the water
 In the middle month of winter
 My camel skin was torture
 I was in a state of nature
@@ -1816,7 +1816,7 @@ And I cried ‘Mercy’
 I cried mercy on me
 Crying ‘Mercy’
 Have mercy on me"
-City Of Refuge,Tender Prey,"You better run, you better run and run and run
+City Of Refuge,Tender Prey,Nick Cave and the Bad Seeds,1988,"You better run, you better run and run and run
 You better run, you better run
 You better run to the City of Refuge
 You better run, you better run
@@ -1862,7 +1862,7 @@ You better run to the City of Refuge
 You better run, you better run
 You better run and run and run
 You better run to the City of Refuge"
-Slowly Goes The Night,Tender Prey,"Lover, lover, goodbye
+Slowly Goes The Night,Tender Prey,Nick Cave and the Bad Seeds,1988,"Lover, lover, goodbye
 So slowly goes the night
 I trace the print of your body with my hand
 Like the map of some forbidden land
@@ -1924,7 +1924,7 @@ And we both know that it’s gonna be alright
 But it ain’t you who has to cry cry cry
 Ten lonely days, ten lonely nights
 Since you left my side side side"
-Sunday's Slave,Tender Prey,"Sunday’s got a slave
+Sunday's Slave,Tender Prey,Nick Cave and the Bad Seeds,1988,"Sunday’s got a slave
 Monday’s got one too
 Sunday’s got a slave
 Monday’s got one too
@@ -1959,7 +1959,7 @@ You can only whisper his name
 But not on Sundays
 Never on Sundays
 O Not on Sunday’s slave"
-Sugar Sugar Sugar,Tender Prey,"Sugar Sugar Sugar
+Sugar Sugar Sugar,Tender Prey,Nick Cave and the Bad Seeds,1988,"Sugar Sugar Sugar
 That man is bad
 The road he drives you down
 O sugar its a drag
@@ -2036,7 +2036,7 @@ You better pray your daddy’s come to take you away
 You better pray baby, pray baby, pray baby
 You better pray o tender prey baby tender prey
 You better pray tender prey baby tender prey"
-New Morning,Tender Prey,"One morn I awakened
+New Morning,Tender Prey,Nick Cave and the Bad Seeds,1988,"One morn I awakened
 A new sun was shining
 The sky was a Kingdom
 All covered in blood
@@ -2064,7 +2064,7 @@ There’ll be no road too narrow
 There’ll be a new day
 And it’s today
 For us"
-Foi Na Cruz,The Good Son,"Foi na cruz, foi na cruz
+Foi Na Cruz,The Good Son,Nick Cave and the Bad Seeds,1990,"Foi na cruz, foi na cruz
 Que um dia
 Meus pecados castigados em Jesus
 Foi na cruz
@@ -2105,7 +2105,7 @@ Meus pecados castigados em Jesus
 Foi na cruz
 Que um dia
 Foi na cruz"
-The Good Son,The Good Son,"One more man gone
+The Good Son,The Good Son,Nick Cave and the Bad Seeds,1990,"One more man gone
 One more man gone
 One more man is gone
 
@@ -2149,7 +2149,7 @@ One more man
 One more man gone
 One more man gone
 One more man"
-Sorrow's Child,The Good Son,"Sorrow’s child sits by the river
+Sorrow's Child,The Good Son,Nick Cave and the Bad Seeds,1990,"Sorrow’s child sits by the river
 Sorrow’s child hears not the water
 Sorrow’s child sits by the river
 Sorrow’s child hears not the water
@@ -2175,7 +2175,7 @@ And just when it seems as though
 All your tears were at an end
 Sorrow’s child lifts up her hand
 And she brings it down again"
-The Weeping Song,The Good Son,"Go son, go down to the water
+The Weeping Song,The Good Son,Nick Cave and the Bad Seeds,1990,"Go son, go down to the water
 And see the women weeping there
 Then go up into the mountains
 The men, they are weeping too
@@ -2214,7 +2214,7 @@ But I won’t be weeping long
 No, I won’t be weeping long
 No, I won’t be weeping long
 No, I won’t be weeping long"
-The Ship Song,The Good Son,"Come sail your ships around me
+The Ship Song,The Good Son,Nick Cave and the Bad Seeds,1990,"Come sail your ships around me
 And burn your bridges down
 We make a little history, baby
 Every time you come around
@@ -2248,7 +2248,7 @@ Come loose your dogs upon me
 And let your hair hang down
 You are a little mystery to me
 Every time you come around"
-The Hammer Song,The Good Son,"I set out on Monday
+The Hammer Song,The Good Son,Nick Cave and the Bad Seeds,1990,"I set out on Monday
 The night was cold and vast
 Any my brother slept
 And though I left quite quietly
@@ -2292,7 +2292,7 @@ And it did not make a sound
 And I said, “Please, please
 Take me back to my home ground”
 Lord, the hammer came down"
-Lament,The Good Son,"I’ve seen your fairground hair,  your seaside eyes
+Lament,The Good Son,Nick Cave and the Bad Seeds,1990,"I’ve seen your fairground hair,  your seaside eyes
 Your vampire tooth, your little truth
 Your tiny lies
 
@@ -2329,7 +2329,7 @@ So dry your eyes
 And turn your head away
 Now there’s nothing more to say
 Now you’re gone away"
-The Witness Song,The Good Son,"Yeah, yeah
+The Witness Song,The Good Son,Nick Cave and the Bad Seeds,1990,"Yeah, yeah
 Well, well
 I took a walk down to the port
 Where strangers meet and do consort
@@ -2395,7 +2395,7 @@ Who will be the witness there
 When your friends are everywhere
 Who will be the witness there
 And your enemies have ceased to care"
-Lucy,The Good Son,"Last night I lay trembling
+Lucy,The Good Son,Nick Cave and the Bad Seeds,1990,"Last night I lay trembling
 The moon it was low
 It was the end of love
 Of misery and woe
@@ -2424,7 +2424,7 @@ Now the bell-tower is ringing
 And the moon it is high
 O Lucy, can you hear me
 When I cry and cry and cry"
-"Papa Won't Leave You, Henry",Henry's Dream,"I went out walking the other day
+"Papa Won't Leave You, Henry",Henry's Dream,Nick Cave and the Bad Seeds,1992,"I went out walking the other day
 The wind hung wet around my neck
 My head it rung with screams and groans
 From the night I spent amongst her bones
@@ -2568,7 +2568,7 @@ Woah, woah
 Woah, woah
 Woah, woah
 And I went on down that road"
-"I Had A Dream, Joe",Henry's Dream,"I had a dream
+"I Had A Dream, Joe",Henry's Dream,Nick Cave and the Bad Seeds,1992,"I had a dream
 I had a dream
 I had a dream, Joe
 
@@ -2621,7 +2621,7 @@ I had a dream, Joe
 I had a dream
 I had a dream
 I had a dream, Joe"
-Straight To You,Henry's Dream,"All the towers of ivory are crumbling
+Straight To You,Henry's Dream,Nick Cave and the Bad Seeds,1992,"All the towers of ivory are crumbling
 And the swallows have sharpened their beaks
 This is the time of our great undoing
 This is the time that I’ll come running
@@ -2658,7 +2658,7 @@ For I am captured
 Straight to you
 For I am captured
 One more time"
-"Brother, My Cup Is Empty",Henry's Dream,"Brother, my cup is empty
+"Brother, My Cup Is Empty",Henry's Dream,Nick Cave and the Bad Seeds,1992,"Brother, my cup is empty
 And I haven’t got a penny
 For to buy no more whiskey
 I have to go home
@@ -2733,7 +2733,7 @@ O brother, my cup is empty
 And I haven’t got a penny
 For to buy no more whiskey
 I have to go home"
-Christina The Astonishing,Henry's Dream,"Christina the Astonishing
+Christina The Astonishing,Henry's Dream,Nick Cave and the Bad Seeds,1992,"Christina the Astonishing
 Lived a long long time ago
 She was stricken with a seizure
 At the age of twenty-two
@@ -2763,7 +2763,7 @@ O Christina the Astonishing
 Behaved in a terrifying manner
 Died at the age of seventy-four
 In the convent of St Anna"
-When I First Came To Town,Henry's Dream,"When I first came to town
+When I First Came To Town,Henry's Dream,Nick Cave and the Bad Seeds,1992,"When I first came to town
 All the people gathered round
 They bought me drinks
 Lord, how they quickly changed their tune
@@ -2824,7 +2824,7 @@ O sweet Jesus
 This really is the end
 There is always one more town
 A little further round the bend"
-John Finn’s Wife,Henry's Dream,"Well the night was deep and the night was dark
+John Finn’s Wife,Henry's Dream,Nick Cave and the Bad Seeds,1992,"Well the night was deep and the night was dark
 And I was at the old dance-hall on the edge of town
 Some big ceremony was going down
 Dancers writhed and squirmed and then,
@@ -2895,7 +2895,7 @@ And the flies did buzz around
 Poor John Finn
 Lying dead upon the ground
 Lying dead upon the ground"
-Loom Of The Land,Henry's Dream,"It was the dirty end of winter
+Loom Of The Land,Henry's Dream,Nick Cave and the Bad Seeds,1992,"It was the dirty end of winter
 Along the loom of the land
 When I walked with sweet Sally
 Hand upon hand
@@ -2959,7 +2959,7 @@ O baby please don’t cry
 And try to keep
 Your little head upon my shoulder
 Now go to sleep"
-Jack The Ripper,Henry's Dream,"I got a woman
+Jack The Ripper,Henry's Dream,Nick Cave and the Bad Seeds,1992,"I got a woman
 She rules my house with an iron fist
 I got a woman
 She rules my house with an iron fist
@@ -2986,7 +2986,7 @@ I got a woman
 She just hollers what she wants from where she’s at
 She screams out Jack the Ripper
 Every time I try to give that girl a kiss"
-Do You Love Me?,Let Love In,"I found her on a night of fire and noise
+Do You Love Me?,Let Love In,Nick Cave and the Bad Seeds,1994,"I found her on a night of fire and noise
 Wild bells rang in a wild sky
 I knew from that moment on
 I’d love her till the day that I died
@@ -3028,7 +3028,7 @@ I swear I made every effort to be good to her
 I swear I made every effort not to abuse her
 Crazy bracelets on her wrists and her ankles
 And the bells from the chapel went jingle-jangle"
-Nobody’s Baby Now,Let Love In,"I’ve searched the holy books
+Nobody’s Baby Now,Let Love In,Nick Cave and the Bad Seeds,1994,"I’ve searched the holy books
 Tried to unravel the mystery of Jesus Christ, the saviour
 I’ve read the poets and the analysts
 Searched through the books on human behaviour
@@ -3057,7 +3057,7 @@ And though I’ve tried to lay her ghost down
 She’s moving through me, even now
 I don’t know why and I don’t know how
 But she’s nobody’s baby now"
-Loverman,Let Love In,"There’s a devil waiting outside your door
+Loverman,Let Love In,Nick Cave and the Bad Seeds,1994,"There’s a devil waiting outside your door
 (How much longer?)
 Bucking and braying and pawing the floor
 Well, he’s howling with pain and crawling up the walls
@@ -3129,7 +3129,7 @@ He wants you, darling, to be his bride
 There’s a devil lying by your side
 
 Loverman! Loverman!"
-Jangling Jack,Let Love In,"Jangling Jack
+Jangling Jack,Let Love In,Nick Cave and the Bad Seeds,1994,"Jangling Jack
 Goes Yackety Yack
 Visits the home of the brave
 Hails a fat yellow cab
@@ -3191,7 +3191,7 @@ Goodbye Goodbye
 Jack doubles over
 And he vomits and dies
 Going Do da do Going Do do do"
-Red Right Hand,Let Love In,"Take a little walk to the edge of town
+Red Right Hand,Let Love In,Nick Cave and the Bad Seeds,1994,"Take a little walk to the edge of town
 Go across the tracks
 Where the viaduct looms,
 Like a bird of doom
@@ -3227,7 +3227,7 @@ And hey buddy, I’m warning  you to turn it off
 He’s a ghost, he’s a god,  he’s a man, he’s a guru
 You’re one microscopic cog  in his catastrophic plan
 Designed and directed by his red right hand"
-I Let Love In,Let Love In,"Despair and Deception, Love’s ugly little twins
+I Let Love In,Let Love In,Nick Cave and the Bad Seeds,1994,"Despair and Deception, Love’s ugly little twins
 Came a-knocking on my door, I let them in
 Darling, you’re the punishment for all my former sins
 
@@ -3255,7 +3255,7 @@ And the air of promises, well buddy, you’ve been warned
 Far worse to be Love’s lover than the lover that Love has scorned
 
 I let love in"
-Thirsty Dog,Let Love In,"I know you’ve hear it all before
+Thirsty Dog,Let Love In,Nick Cave and the Bad Seeds,1994,"I know you’ve hear it all before
 But I’m sorry for this three year war
 For the setting up of camps  and wire and trenches
 I’m sorry for the other night
@@ -3300,7 +3300,7 @@ I’m sorry sorry sorry, sorry
 I’m sitting feeling sorry in the Thirsty Dog
 I’m sorry sorry sorry, sorry
 I’m feeling very sorry in the Thirsty Dog"
-Ain’t Gonna Rain Anymore,Let Love In,"Once there came a storm in the form of a girl
+Ain’t Gonna Rain Anymore,Let Love In,Nick Cave and the Bad Seeds,1994,"Once there came a storm in the form of a girl
 It blew to pieces my snug little world
 And sometimes I swear I can still hear her howl
 Down through the wreckage and the ruins
@@ -3330,7 +3330,7 @@ She ain’t coming back no more
 She ain’t coming back no more
 She ain’t coming back no more
 Say what you will, I don’t care"
-Lay Me Low,Let Love In,"They’re gonna lay me low (Lay me low)
+Lay Me Low,Let Love In,Nick Cave and the Bad Seeds,1994,"They’re gonna lay me low (Lay me low)
 They’re gonna sink me in the snow
 They’re gonna throw back  their heads and crow
 When I go
@@ -3397,7 +3397,7 @@ Then do it now
 Don’t care how Do it any old how
 Take my hand Make a stand
 And blow it all to hell"
-Do You Love Me? (Part 2),Let Love In,"Onward! And Onward! And Onward I go
+Do You Love Me? (Part 2),Let Love In,Nick Cave and the Bad Seeds,1994,"Onward! And Onward! And Onward I go
 Where no man before could be bothered to go
 Till the soles of my shoes are shot full of holes
 And it’s all downhill with a bullet
@@ -3450,7 +3450,7 @@ So onward! And Onward! And Onward I go!
 Onward! And Upward! And I’m off to find love
 With blue-black bracelets on my wrists and ankles
 And the coins in my pocket go jingle-jangle"
-Song Of Joy,Murder Ballads,"Have mercy on me, sir
+Song Of Joy,Murder Ballads,Nick Cave and the Bad Seeds,1996,"Have mercy on me, sir
 Allow me to impose on you
 I have no place to stay
 And my bones are cold right through
@@ -3544,7 +3544,7 @@ La la la la la la la la la la
 La la la la la la la la la la
 La la la la la la la la la la
 La la la la la la la la la la"
-Stagger Lee,Murder Ballads,"It was back in ‘32 when times were hard
+Stagger Lee,Murder Ballads,Nick Cave and the Bad Seeds,1996,"It was back in ‘32 when times were hard
 He had a Colt .45 and a deck of cards
 Stagger Lee
 
@@ -3612,7 +3612,7 @@ Said Stagger Lee
 Billy Dilly dropped down and slobbered on his head
 And Stag filled him full of lead
 Oh yeah."
-Henry Lee,Murder Ballads,"Get down, get down, little Henry Lee
+Henry Lee,Murder Ballads,Nick Cave and the Bad Seeds,1996,"Get down, get down, little Henry Lee
 And stay all night with me
 You won’t find a girl in this damn world
 That will compare with me
@@ -3656,7 +3656,7 @@ And the wind did howl and the wind did moan
 La la la la la
 La la la la lee
 A little bird lit down on Henry Lee"
-Lovely Creature,Murder Ballads,"There she stands, this lovely creature
+Lovely Creature,Murder Ballads,Nick Cave and the Bad Seeds,1996,"There she stands, this lovely creature
 There she stands, there she stands
 With her hair full of ribbons
 And green gloves on her hands
@@ -3690,7 +3690,7 @@ Somewhere she lies, this lovely creature
 Beneath the slow drifting sands
 With her hair full of ribbons
 And green gloves on her hands"
-Where the Wild Roses Grow,Murder Ballads,"They call me The Wild Rose
+Where the Wild Roses Grow,Murder Ballads,Nick Cave and the Bad Seeds,1996,"They call me The Wild Rose
 but my name was Elisa Day
 Why they call me it I do not know
 For my name was Elisa Day
@@ -3739,7 +3739,7 @@ They call me The Wild Rose
 but my name was Elisa Day
 Why they call me it I do not know
 For my name was Elisa Day"
-The Curse of Millhaven,Murder Ballads,"I live in a town called Millhaven
+The Curse of Millhaven,Murder Ballads,Nick Cave and the Bad Seeds,1996,"I live in a town called Millhaven
 And it’s small and it’s mean and it’s cold
 But if you come around just as the sun goes down
 You can watch the whole town turn to gold
@@ -3848,7 +3848,7 @@ Singing La la la la La la la lie
 Yeah, everything is groovy and everything is fine
 Singing La la la la La la la lie
 All God’s children they all gotta die"
-The Kindness of Strangers,Murder Ballads,"They found Mary Bellows cuffed to the bed
+The Kindness of Strangers,Murder Ballads,Nick Cave and the Bad Seeds,1996,"They found Mary Bellows cuffed to the bed
 With a rag in her mouth and a bullet in her head
 O poor Mary Bellows
 
@@ -3898,7 +3898,7 @@ Tell them this world is full of danger
 And to shun the company of strangers
 O poor Mary Bellows
 O poor Mary Bellows"
-Crow Jane,Murder Ballads,"Crow Jane Crow Jane
+Crow Jane,Murder Ballads,Nick Cave and the Bad Seeds,1996,"Crow Jane Crow Jane
 Crow Jane
 Horrors in her head
 That her tongue dare not name
@@ -3942,7 +3942,7 @@ Laughing all the way back from the new town
 Population, now, 28
 Crow Jane Crow Jane
 Crow Jane Ah hah huh"
-O’Malley’s Bar,Murder Ballads,"I am tall and I am thin
+O’Malley’s Bar,Murder Ballads,Nick Cave and the Bad Seeds,1996,"I am tall and I am thin
 Of an enviable height
 And I’ve been known to be quite handsome
 From a certain angle and in a certain light
@@ -4110,7 +4110,7 @@ And started counting on my fingers
 
 Aaaaaaaaah One Aaaaaaaah Two Aaaaaah Three Aaaah Four
 O’Malley’s bar O’Malley’s bar"
-Death is Not the End,Murder Ballads,"When you’re sad and when you’re lonely
+Death is Not the End,Murder Ballads,Nick Cave and the Bad Seeds,1996,"When you’re sad and when you’re lonely
 And you haven’t got a friend
 Just remember that death is not the end
 
@@ -4155,7 +4155,7 @@ Not the end, not the end
 Just remember that death is not the end
 Not the end, not the end
 Just remember that death is not the end"
-Into My Arms,The Boatman's Call,"I don’t believe in an interventionist God
+Into My Arms,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"I don’t believe in an interventionist God
 But I know, darling, that you do
 But if I did I would kneel down and ask Him
 Not to intervene when it came to you
@@ -4196,7 +4196,7 @@ Into my arms, O Lord
 Into my arms, O Lord
 Into my arms, O Lord
 Into my arms"
-Lime Tree Arbour,The Boatman's Call,"The boatman calls from the lake
+Lime Tree Arbour,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"The boatman calls from the lake
 A lone loon dives upon the water
 I put my hand over hers
 Down in the lime tree arbour
@@ -4224,7 +4224,7 @@ Through every word that I speak
 And every thing I know
 There is a hand that protects me
 And I do love her so"
-People Ain’t No Good,The Boatman's Call,"People just ain’t no good
+People Ain’t No Good,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"People just ain’t no good
 I think that’s well understood
 You can see it everywhere you look
 People just ain’t no good
@@ -4281,7 +4281,7 @@ People they ain’t no good
 People they ain’t no good
 People they ain’t no good
 People they ain’t no good"
-Brompton Oratory,The Boatman's Call,"Up those stone steps I climb
+Brompton Oratory,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"Up those stone steps I climb
 Hail this joyful day’s return
 Into its great shadowed vault I go
 Hail the Pentecostal morn
@@ -4310,7 +4310,7 @@ Outside I sit on the stone steps
 With nothing much to do
 Forlorn and exhausted, baby
 By the absence of you"
-There Is A Kingdom,The Boatman's Call,"Just like a bird 
+There Is A Kingdom,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"Just like a bird 
 That sings up the sun
 In a dawn so very dark
 Such is my faith for you
@@ -4340,7 +4340,7 @@ There is a king
 And He lives without
 And He lives within
 And He is everything"
-(Are You) The One That I’ve Been Waiting For?,The Boatman's Call,"I’ve felt you coming, girl, as you drew near
+(Are You) The One That I’ve Been Waiting For?,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"I’ve felt you coming, girl, as you drew near
 I knew you’d find me, cause I longed you here
 Are you my destiny?
 Is this how you’ll appear?
@@ -4376,7 +4376,7 @@ And just how close you are getting
 And how every little thing anticipates you
 All down my veins my heart-strings call
 Are you the one that I’ve been waiting for?"
-Where Do We Go Now But Nowhere,The Boatman's Call,"I remember a girl so very well
+Where Do We Go Now But Nowhere,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"I remember a girl so very well
 The carnival drums all mad in the air
 Grim reapers and skeletons and a missionary bell
 O where do we go now but nowhere?
@@ -4433,7 +4433,7 @@ O who could have known, but no one?
 
 O wake up, my love, my lover, wake up
 O wake up, my love, my lover, wake up"
-West Country Girl,The Boatman's Call,"With a crooked smile
+West Country Girl,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"With a crooked smile
 And a heart-shaped face
 Comes from the West country
 Where the birds sing bass
@@ -4460,7 +4460,7 @@ Well, who could ask much more than that?
 A West country girl with a big fat cat
 That looks into her eyes of green
 And meows, ‘He loves you’, then meows again"
-Black Hair,The Boatman's Call,"Last night my kisses
+Black Hair,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"Last night my kisses
 Were banked in black hair
 And in my bed, my lover,
 Her hair was midnight black
@@ -4501,7 +4501,7 @@ Black hair did rest
 Today she took a train to the West
 Today she took a train to the West
 Today she took a train to the West"
-Idiot Prayer,The Boatman's Call,"As they’re taking me down, my friend
+Idiot Prayer,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"As they’re taking me down, my friend
 And as they usher me off to my end
 Will I bid you adieu?
 Or will I be seeing you soon?
@@ -4540,7 +4540,7 @@ Love, dear, is strictly for the birds
 We each get what we deserve
 My little snow white dove
 Rest assured"
-Far From Me,The Boatman's Call,"For you, dear, I was born
+Far From Me,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"For you, dear, I was born
 For you I was raised up
 For you I’ve lived and for you I will die
 For you I am dying now
@@ -4587,7 +4587,7 @@ Far from me
 Suspended in your bleak and fishless sea
 Far from me
 Far from me"
-Green Eyes,The Boatman's Call,"Kiss me again, rekiss me and kiss me
+Green Eyes,The Boatman's Call,Nick Cave and the Bad Seeds,1997,"Kiss me again, rekiss me and kiss me
 Slip your frigid hands beneath my shirt
 This useless old fucker with his twinkling cunt
 Doesn’t care if he gets hurt
@@ -4610,7 +4610,7 @@ And be quiet as you are leaving, Miss
 
 Green eyes, green eyes
 Green eyes, green eyes"
-As I Sat Sadly By Her Side,No More Shall We Part,"As I sat sadly by her side
+As I Sat Sadly By Her Side,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"As I sat sadly by her side
 At the window, through the glass
 She stroked a kitten in her lap
 And we watched the world as it fell past
@@ -4670,7 +4670,7 @@ At which she turned her head away
 Great tears leaping from her eyes
 I could not wipe the smile from my face
 As I sat sadly by her side"
-And No More Shall We Part,No More Shall We Part,"And no more shall we part
+And No More Shall We Part,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"And no more shall we part
 It will no longer be necessary
 And no more will I say, dear heart
 I am alone and she has left me
@@ -4704,7 +4704,7 @@ What are you talking about?
 
 For no more shall we part
 And no more shall we part"
-Hallelujah,No More Shall We Part,"On the first day of May I took to the road
+Hallelujah,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"On the first day of May I took to the road
 I’d been staring out the window most of the
 morning
 I’d watched the rain claw at the glass
@@ -4775,7 +4775,7 @@ Hallelujah
 And twenty pretty girls to carry them down
 Hallelujah
 And twenty deep holes to bury them in"
-Love Letter,No More Shall We Part,"I hold this letter in my hand
+Love Letter,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"I hold this letter in my hand
 A plea, a petition, a kind of prayer
 I hope it does as I have planned
 Losing her again is more than I can bear
@@ -4815,7 +4815,7 @@ Whispered on the wind
 Come back to me
 Come back to me
 O baby please come back to me"
-Fifteen Feet Of Pure White Snow,No More Shall We Part,"Where is Mona?
+Fifteen Feet Of Pure White Snow,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"Where is Mona?
 She’s long gone
 Where is Mary?
 She’s taken her along
@@ -4887,7 +4887,7 @@ Save Yourself! Help Yourself!
 Save Yourself! Help Yourself!
 Save Yourself! Help Yourself!
 Save Yourself! Help Yourself!"
-God Is In The House,No More Shall We Part,"We’ve laid the cables and the wires
+God Is In The House,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"We’ve laid the cables and the wires
 We’ve split the wood and stoked the fires
 We’ve lit our town so there is no
 Place for crime to hide
@@ -4949,7 +4949,7 @@ God is in the house
 God is in the house
 Oh I wish He would come out
 God is in the house"
-Oh My Lord,No More Shall We Part,"I thought I’d take a walk today
+Oh My Lord,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"I thought I’d take a walk today
 It’s a mistake I sometimes make
 My children lay asleep in bed
 My wife lay wide-awake
@@ -5026,7 +5026,7 @@ How have I offended thee?
 Wrap your tender arms round me
 Oh Lord Oh Lord
 Oh My Lord"
-Sweetheart Come,No More Shall We Part,"Come over here, babe
+Sweetheart Come,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"Come over here, babe
 It ain’t that bad
 I don’t claim to understand
 The troubles that you’ve had
@@ -5068,7 +5068,7 @@ It seems we can be happy now
 It’s late but it ain’t never
 It’s late but it ain’t never
 It’s late but it ain’t never"
-The Sorrowful Wife,No More Shall We Part,"I married my wife on the day of the eclipse
+The Sorrowful Wife,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"I married my wife on the day of the eclipse
 Our friends awarded her courage with gifts
 Now as the nights grow longer and the season shifts
 I look to my sorrowful wife
@@ -5110,7 +5110,7 @@ And help me babe
 Help me now
 I was blind
 I was a fool"
-We Came Along This Road,No More Shall We Part,"I left by the back door
+We Came Along This Road,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"I left by the back door
 With my wife’s lover’s smoking gun
 I don’t know what I was hoping for
 I hit the road at a run
@@ -5133,7 +5133,7 @@ On whom I could depend
 Then we came along this road
 We came along this road
 We came along this road"
-Gates To The Garden,No More Shall We Part,"Past the ivy-covered windows of The Angel
+Gates To The Garden,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"Past the ivy-covered windows of The Angel
 Down Athenaeum Lane to the cathedral
 Through the churchyard I wandered
 Sat for a spell there and I pondered
@@ -5173,7 +5173,7 @@ Won’t you meet me at the gates
 Won’t you meet me at the gates
 Won’t you meet me at the gates
 To the garden"
-Darker With The Day,No More Shall We Part,"As so with that, I thought I’d take a final walk
+Darker With The Day,No More Shall We Part,Nick Cave and the Bad Seeds,2001,"As so with that, I thought I’d take a final walk
 The tide of public opinion had started to abate
 The neighbours, bless them, had turned out
 to be all talk
@@ -5252,7 +5252,7 @@ Since you went away
 And I
 Just got to say
 That it grows darker with the day"
-Wonderful Life,Nocturama,"Come in, babe
+Wonderful Life,Nocturama,Nick Cave and the Bad Seeds,2003,"Come in, babe
 Across these purple fields
 The sun has sunk behind you
 Across these purple fields
@@ -5310,7 +5310,7 @@ It’s a wonderful life that you bring
 It’s a wonderful, wonderful thing
 It’s a wonderful life
 It’s a wonderful life"
-He Wants You,Nocturama,"In his boat and through the dark he rowed
+He Wants You,Nocturama,Nick Cave and the Bad Seeds,2003,"In his boat and through the dark he rowed
 Chained to oar and the night and the wind that blowed
 Horribly ‘round his ears
 Under the bridge and into your dreams he soars
@@ -5334,7 +5334,7 @@ And he wants you
 He wants you
 He is straight and he is true
 Ooh hoo hoo"
-Right Out of Your Hand,Nocturama,"Please forgive me
+Right Out of Your Hand,Nocturama,Nick Cave and the Bad Seeds,2003,"Please forgive me
 If I appear unkind
 But any fool can tell you
 It’s all in your mind
@@ -5368,7 +5368,7 @@ And you’ve got me eating
 You’ve got me eating
 You’ve got me eating
 Right out of your hand"
-Bring It On,Nocturama,"This garden that I built for you
+Bring It On,Nocturama,Nick Cave and the Bad Seeds,2003,"This garden that I built for you
 That you sit in now and yearn
 I will never leave it, dear
 I could not bear to return
@@ -5414,7 +5414,7 @@ Every tiny fear
 Bring it on
 Every shattered dream
 And I’ll scatter them into the sea"
-Dead Man in My Bed,Nocturama,"She sat in a wicker chair, her eyes they were downcast
+Dead Man in My Bed,Nocturama,Nick Cave and the Bad Seeds,2003,"She sat in a wicker chair, her eyes they were downcast
 She breathed in the future, by breathing out the past
 The die is done, the die is shook, the die is duly cast
 There’s a dead man in my bed, she said
@@ -5445,7 +5445,7 @@ There is a dead man in my bed, she says
 I keep poking at him with my stick
 But his skin is just so fucking thick
 There’s a dead man in my bed"
-Still in Love,Nocturama,"The cops are hanging around the house
+Still in Love,Nocturama,Nick Cave and the Bad Seeds,2003,"The cops are hanging around the house
 The cars outside look like they’ve got the blues
 The moon don’t know if it’s day or night
 Everybody’s creeping around with plastic covers on their shoes
@@ -5481,7 +5481,7 @@ I fall to sleep in the summer rain
 With no single memory of pain
 And you might think I’m crazy
 But I’m still in love with you"
-There Is a Town,Nocturama,"There is a town
+There Is a Town,Nocturama,Nick Cave and the Bad Seeds,2003,"There is a town
 Where I was born
 Far far away
 Across the sea
@@ -5511,7 +5511,7 @@ And so it goes
 And so it seems
 That God lives only in our dreams
 In our dreams"
-Rock of Gibraltar,Nocturama,"Let me say this to you
+Rock of Gibraltar,Nocturama,Nick Cave and the Bad Seeds,2003,"Let me say this to you
 I’ll be steadfast and true
 And my love will never falter
 
@@ -5542,7 +5542,7 @@ That things could so utterly alter?
 All the plans that we laid
 Could soon be betrayed
 Betrayed like the Rock of Gibraltar"
-She Passed By My Window,Nocturama,"She passed by my window
+She Passed By My Window,Nocturama,Nick Cave and the Bad Seeds,2003,"She passed by my window
 Her eyes were all aglow
 And bent to pick her glove she’d dropped
 From the bright and brittle snow
@@ -5566,7 +5566,7 @@ You gotta sanctify my love
 You gotta sanctify my love
 You gotta sanctify my love
 I ain’t no lover-boy"
-"Babe, I’m on Fire",Nocturama,"Father says it, mother says it
+"Babe, I’m on Fire",Nocturama,Nick Cave and the Bad Seeds,2003,"Father says it, mother says it
 Sister says it, brother says it
 Uncle says it, Auntie says it
 Babe, I’m on fire
@@ -5854,7 +5854,7 @@ Babe, I’m on fire
 Babe, I’m on fire
 
 Chorus"
-Get Ready for Love,Abattoir Blues / The Lyre of Orpheus,"Get ready for love! Praise Him!
+Get Ready for Love,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Get ready for love! Praise Him!
 Get ready for love! Praise Him!
 Get ready for love! Get ready!
 
@@ -5891,7 +5891,7 @@ what you’re praising Him for
 Praise Him till you’ve forgotten
 what you’re praising Him for
 Then praise Him a little more"
-Cannibal’s Hymn,Abattoir Blues / The Lyre of Orpheus,"You have a heart and I have a key
+Cannibal’s Hymn,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"You have a heart and I have a key
 Lie back and let me unlock you
 Those heathens you hang with down by the sea
 All they want to do is defrock you
@@ -5933,7 +5933,7 @@ And your heart that is bruised but bleating
 And bleeding like a lamb
 Banging like a gong
 Beating like a drum"
-Hiding All Away,Abattoir Blues / The Lyre of Orpheus,"You went looking for me, dear,
+Hiding All Away,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"You went looking for me, dear,
 Down by the sea
 You found some little silver fish
 But you didn’t find me
@@ -6003,7 +6003,7 @@ He basted you with butter, babe
 And made you crawl inside
 I was not in there, dear, hiding all away
 I was not in there, dear, hiding all away"
-Messiah Ward,Abattoir Blues / The Lyre of Orpheus,"You went looking for me, dear,
+Messiah Ward,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"You went looking for me, dear,
 Down by the sea
 You found some little silver fish
 But you didn’t find me
@@ -6073,7 +6073,7 @@ He basted you with butter, babe
 And made you crawl inside
 I was not in there, dear, hiding all away
 I was not in there, dear, hiding all away"
-"There She Goes, My Beautiful World",Abattoir Blues / The Lyre of Orpheus,"The wintergreen, the juniper
+"There She Goes, My Beautiful World",Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"The wintergreen, the juniper
 The cornflower and the chicory
 All the words you said to me
 Still vibrating in the air
@@ -6168,7 +6168,7 @@ There she goes, my beautiful world
 There she goes, my beautiful world
 There she goes, my beautiful world
 There she goes again"
-Nature Boy,Abattoir Blues / The Lyre of Orpheus,"I was just a boy when I sat down
+Nature Boy,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"I was just a boy when I sat down
 To watch the news on TV
 I saw some ordinary slaughter
 I saw some routine atrocity
@@ -6231,7 +6231,7 @@ She moves among the sparrows
 And she floats upon the breeze
 She moves among the flowers
 And she moves right up close to me"
-Abattoir Blues,Abattoir Blues / The Lyre of Orpheus,"The sun is high up in the sky and I’m in my car
+Abattoir Blues,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"The sun is high up in the sky and I’m in my car
 Drifting down into the abattoir
 Do you see what I see, dear?
 
@@ -6272,7 +6272,7 @@ I got the abattoir blues
 I got the abattoir blues
 I got the abattoir blues
 Right down to my shoes"
-Let the Bells Ring,Abattoir Blues / The Lyre of Orpheus,"C’mon, kind Sir, let’s walk outside
+Let the Bells Ring,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"C’mon, kind Sir, let’s walk outside
 And breathe the autumn air
 See the many that have lived and died
 See the unending golden stair
@@ -6307,7 +6307,7 @@ Where the awed and the mediocre wait
 Barely fit to ring the bells
 
 (Chorus)"
-Fable of the Brown Ape,Abattoir Blues / The Lyre of Orpheus,"Farmer Emmerich went into his barn
+Fable of the Brown Ape,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Farmer Emmerich went into his barn
 And found a cow suckling a serpent
 And a brown ape clanking a heavy chain
 Said Farmer Emmerich to the ape
@@ -6343,7 +6343,7 @@ And was heard to roam the ranges
 Clanking its heavy chain
 Down in the valley it sang to its friend
 Whom he may never see again"
-The Lyre of Orpheus,Abattoir Blues / The Lyre of Orpheus,"Orpheus sat gloomy in his garden shed
+The Lyre of Orpheus,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Orpheus sat gloomy in his garden shed
 Wondering what to do
 With a lump of wood, a piece of wire
 And a little pot of glue
@@ -6427,7 +6427,7 @@ This one is for Mamma
 
 O Mamma O Mamma
 O Mamma O Mamma"
-Breathless,Abattoir Blues / The Lyre of Orpheus,"It’s up in the morning and on the downs
+Breathless,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"It’s up in the morning and on the downs
 Little white clouds like gambolling lambs
 And I am breathless over you
 And the red-breasted robin beats his wings
@@ -6468,7 +6468,7 @@ Still your soul
 Still your mind
 Still, the fire of love is true
 And I am breathless without you"
-"Babe, You Turn Me On",Abattoir Blues / The Lyre of Orpheus,"Stay by me, stay by me
+"Babe, You Turn Me On",Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Stay by me, stay by me
 You are the one, my only true love
 
 The butcher bird makes it’s noise
@@ -6517,7 +6517,7 @@ And, babe, you turn me on
 
 Like an idea
 Like an Atom bomb"
-Easy Money,Abattoir Blues / The Lyre of Orpheus,"It’s difficult. It’s very tough.
+Easy Money,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"It’s difficult. It’s very tough.
 I said to the man who’d been sleeping rough
 To sit within a fragrant breeze
 All among the nodding trees
@@ -6566,7 +6566,7 @@ Rain it down on the wife and the kids
 Rain it down on the house where we live
 Rain it down until you got nothing left to give
 And rain that ever-loving stuff down on me"
-Supernaturally,Abattoir Blues / The Lyre of Orpheus,"Through the windswept coastal trees
+Supernaturally,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Through the windswept coastal trees
 Where the dead come rising from the sea
 With a teddy-bear clamped between her knees
 She says, where can my loverman be?
@@ -6620,7 +6620,7 @@ Hey! Ho!
 Oh don’t you go
 All supernatural on me
 Supernaturally"
-Spell,Abattoir Blues / The Lyre of Orpheus,"Through the woods, and frosted moors
+Spell,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Through the woods, and frosted moors
 Past the snow-caked hedgerows I
 Bed down upon the drifting snow
 Sleep beneath the melting sky
@@ -6653,7 +6653,7 @@ I call you by your name
 I know not where you are
 But somehow, somewhere, sometime soon
 Upon this wild abandoned star"
-Carry Me,Abattoir Blues / The Lyre of Orpheus,"I lay down by the river
+Carry Me,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"I lay down by the river
 The shadows moved across me, inch by inch
 And all that I heard
 Was the war between the water and the bridge
@@ -6691,7 +6691,7 @@ Carry me
 Carry me
 Carry me
 Carry me away"
-O Children,Abattoir Blues / The Lyre of Orpheus,"Pass me that lovely little gun
+O Children,Abattoir Blues / The Lyre of Orpheus,Nick Cave and the Bad Seeds,2004,"Pass me that lovely little gun
 My dear, my darling one
 The cleaners are coming, one by one
 You don’t even want to let them start
@@ -6771,7 +6771,7 @@ Hey little train! We are all jumping on
 The train that goes to the Kingdom
 We’re happy, Ma, we’re having fun
 And the train ain’t even left the station"
-Get It On,Grinderman,"I’ve gotta get up to get down and start all over again
+Get It On,Grinderman,Grinderman,2007,"I’ve gotta get up to get down and start all over again
 Head on down to the basement and shout
 Kick those white mice and black dogs out
 Kick those white mice and baboons out
@@ -6840,7 +6840,7 @@ Get it on!
 Get it on!
 Get it on!
 Get it on!"
-No Pussy Blues,Grinderman,"My face is finished, my body’s gone
+No Pussy Blues,Grinderman,Grinderman,2007,"My face is finished, my body’s gone
 And I can’t help but think standin’ up here
 In all this applause and gazin’ down
 At all the young and the beautiful
@@ -6906,7 +6906,7 @@ I got the no pussy blues
 I got the no pussy blues
 Yeah!
 Yeah!"
-Electric Alice,Grinderman,"Don’t the stars look good tonight
+Electric Alice,Grinderman,Grinderman,2007,"Don’t the stars look good tonight
 Thought Electric Alice
 In the pale moonlight
 
@@ -6918,7 +6918,7 @@ I think I hear a baby cry
 Thought Electric Alice as she passed by
 Makes me feel like I’m a little child again
 Thought Electric Alice in the silver rain"
-Grinderman,Grinderman,"I’m the grinderman
+Grinderman,Grinderman,Grinderman,2007,"I’m the grinderman
 In the silver rain
 In the pale moonlight
 I am open late
@@ -6945,7 +6945,7 @@ I am open late
 Yes I’m the grinderman, yes I am, yes I am
 Anyway I can
 Yes I am"
-Depth Charge Ethel,Grinderman,"Come on, Jim
+Depth Charge Ethel,Grinderman,Grinderman,2007,"Come on, Jim
 
 I entered the room and the canned laughter
 Ethel was angled across some dude’s knee
@@ -6983,7 +6983,7 @@ Yeah, Depth Charge Ethel is something special
 Yeah, Depth Charge Ethel is heavy metal
 Yeah, heavy metal
 Yeah, Depth Charge Ethel is something special to me"
-Go Tell The Women,Grinderman,"We done our thing
+Go Tell The Women,Grinderman,Grinderman,2007,"We done our thing
 We have evolved
 We’re up on our hind legs
 The problem solved
@@ -7027,7 +7027,7 @@ Hey hey
 Come on back now to the fray
 Hey hey
 Hey hey"
-(I Don’t Need You To) Set Me Free,Grinderman,"I saw you walkin’ down on the street
+(I Don’t Need You To) Set Me Free,Grinderman,Grinderman,2007,"I saw you walkin’ down on the street
 I called out from my window but you didn’t hear me
 I lay down and I tried to sleep
 I waited for you to walk on by again
@@ -7059,7 +7059,7 @@ Set me free
 Set me free
 Set me free
 Set me free"
-Honey Bee (Let’s Fly To Mars),Grinderman,"1 2 3 4
+Honey Bee (Let’s Fly To Mars),Grinderman,Grinderman,2007,"1 2 3 4
 
 Mad mullahs and dirty bombs
 Alert the coastal command
@@ -7112,7 +7112,7 @@ Honey bee
 Honey bee
 Honey bee
 Honey bee"
-Man In The Moon,Grinderman,"My daddy was an astronaut
+Man In The Moon,Grinderman,Grinderman,2007,"My daddy was an astronaut
 That’s what I was often taught
 My daddy went away too soon
 Now he’s living on the moon
@@ -7126,7 +7126,7 @@ Sitting here scratching in this rented room
 Scratching and atapping to the man in the moon
 About all the things that I’ve been taught
 My daddy was an astronaut"
-When My Love Comes Down,Grinderman,"When my love comes down to meet you
+When My Love Comes Down,Grinderman,Grinderman,2007,"When my love comes down to meet you
 When my love comes down to meet you again
 When my love comes down to meet you
 When my love comes down to meet you againYour mouth is a hologram made of spiders bones
@@ -7151,7 +7151,7 @@ When my love comes down to meet you
 When my love comes down to meet you again
 Oh, when my love comes down to meet you
 Oh, when my love comes down to meet you again"
-Love Bomb,Grinderman,"I read the book from back to front
+Love Bomb,Grinderman,Grinderman,2007,"I read the book from back to front
 It made a deep impression
 Twenty thousand pages baby
 I hoped for some direction
@@ -7183,7 +7183,7 @@ I’ve been watching the MTV
 I’ve been watching the BBC
 And I’ve been searching on the Internet
 And I’m getting so thin and sick"
-DIG!!! LAZARUS DIG!!!,DIG!!! LAZARUS DIG!!!,"dig yourself, LAZARUS!!!!!!
+DIG!!! LAZARUS DIG!!!,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"dig yourself, LAZARUS!!!!!!
 DIG YOURSELF, LAZARUS!!!!!!!!!!!!!!!!!!!
 dig yourself, LAZARUS!!!!!!!!
 (dig yourself back in that hole)
@@ -7255,7 +7255,7 @@ DIG YOURSELF, LAZARUS!!!!!!!!!!!!!!!!!!!
 dig yourself, LAZARUS!!!!!!!!
 (dig yourself back in that hole)
 I!!!!     WANT!!!!!   Y/!!!!!!!! TO!!!!!!!!   DIG!!!!!!!!!!!!!!!!!!!"
-Today’s Lesson,DIG!!! LAZARUS DIG!!!,"Little Janie she wakes up from a dream
+Today’s Lesson,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"Little Janie she wakes up from a dream
 a gun like a jawbone down the waistband of her jeans
 mr Sandman can recite today’s lesson in his sleep
 he says
@@ -7294,7 +7294,7 @@ CMON!!!!
 CMON!!!!
 CMON!!!!!
 CMON!!!!!!!"
-Moonland,DIG!!! LAZARUS DIG!!!,"when I came up from out of the meat-locker
+Moonland,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"when I came up from out of the meat-locker
 the city was gone
 the sky was full of lights
 the snow provides a silent cover
@@ -7323,7 +7323,7 @@ you were playing w/ the buttons on yr coat
 in the back of that car)
 in moonl&, under the stars
 in moonl&, & I followed that car"
-Night Of The Lotus Eaters,DIG!!! LAZARUS DIG!!!,"sapped & stupid
+Night Of The Lotus Eaters,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"sapped & stupid
 I lie upon the stones and I swoons
 the darling little dandelions have done their thing
 & changed from suns into moons
@@ -7365,7 +7365,7 @@ Now
 HIT
 the
 streets!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
-Albert Goes West,DIG!!! LAZARUS DIG!!!,"albert he goes west/ he crossed
+Albert Goes West,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"albert he goes west/ he crossed
 the vast indifferent deserts of Arizona
 he had a psychotic episode on a dude ranch
 that involved a bottle of ammonia
@@ -7395,7 +7395,7 @@ I watch the people go ticking past/ I go hey hey hey
 you know I gotta say/ I like it here!!!
 sha-la-la-la   sha la-la-la   sha-la-la-la-la-la-la-la!!!
 sha-la-la-la   sha la-la-la   sha-la-la-la-la-la-la-la!!!"
-We Call Upon The Author,DIG!!! LAZARUS DIG!!!,"what we once thought we had we didnt
+We Call Upon The Author,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"what we once thought we had we didnt
 & what we have now will never be that way again
 so WE CALL UPON THE AUTHOR TO EXPLAIN!!!
 doop   doop   doop   doop doop   doop   doop &tc
@@ -7480,7 +7480,7 @@ doop   doop   doop   doop   doop   doop   doop   &tc
 PROLIX!!!!
 PROLIX!!!!
 NOTHING A PAIR OF SCISSORS CAN’T FIX!!!!!!!!"
-Hold Onto Yourself,DIG!!! LAZARUS DIG!!!,"(I’m so far away from you)
+Hold Onto Yourself,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"(I’m so far away from you)
 I’m pacing up & down my room
 does Jesus only love a man who loses?
 I turn on the radio——–
@@ -7517,7 +7517,7 @@ it’s all life & fire & lunacy
 & excuses & excuses & excuses
 if I could, I would/ I’d lie right down/ & hold on to yourself
 one day I’ll come back to you & I’ll lie down & I’ll hold on to yourself"
-Lie Down Here (& Be My GIrl),DIG!!! LAZARUS DIG!!!,"well y/ lost a foe &
+Lie Down Here (& Be My GIrl),DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"well y/ lost a foe &
 y/ found yrself a friend
 (lie down here & be my girl)
 I’m back now/ baby / that man
@@ -7571,7 +7571,7 @@ tonight (be my girl)
 y/ look so good
 y/ look so good
 &tc &tc &tc"
-Jesus Of The Moon,DIG!!! LAZARUS DIG!!!,"I stepped out of the St. James Hotel
+Jesus Of The Moon,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"I stepped out of the St. James Hotel
 I’d left y/ behind curled up like a child
 well, a change is gonna come
 & as the door whispered shut
@@ -7611,7 +7611,7 @@ y/ lying there in a St. James hotel bed
 like a Jesus of the moon
 a Jesus of the planets & the stars
 I say hello/ hello/ hello"
-Midnight Man,DIG!!! LAZARUS DIG!!!,"hold that chrysalis in yr palm
+Midnight Man,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"hold that chrysalis in yr palm
 see it split & change
 it won’t do you any harm
 it’s just trying to rearrange
@@ -7681,7 +7681,7 @@ everybody’s coming round
 everybody’s coming round
 to be yr midnight man!!!
 to be yr midnight man!!!"
-More News From Nowhere,DIG!!! LAZARUS DIG!!!,"I walk into the corner of my room
+More News From Nowhere,DIG!!! LAZARUS DIG!!!,Nick Cave and the Bad Seeds,2008,"I walk into the corner of my room
 see my friends in high places
 I dont know which is which or who is whom
 theyve stolen each others faces
@@ -7808,7 +7808,7 @@ dont it make you wanna get right back home
 more news from nowhere
 more news from nowhere
 goodbye/goodbye/goodbye"
-Mickey Mouse And The Goodbye Man,Grinderman 2,"I woke up this morning and I thought what am I doing
+Mickey Mouse And The Goodbye Man,Grinderman 2,Grinderman,2010,"I woke up this morning and I thought what am I doing
 Yeah what am I doing here
 I woke up this morning and I thought what am I doing
 Yeah what am I doing hereWell my brother, he starts raging!
@@ -7853,7 +7853,7 @@ Walking down the travelator! Walking down the travelator!
 Twenny-two twenny-four twenny-six twenny-nine
 Come on baby and blow my mind!
 Ooooooow! Oooooooooooow! Yeah!"
-Worm Tamer,Grinderman 2,"You know they call my girl The Snake Charmer
+Worm Tamer,Grinderman 2,Grinderman,2010,"You know they call my girl The Snake Charmer
 Here she comes rising with the yellow dawn
 You know I would do nothing to ever harm her
 I guess that I’ve loved you for too long
@@ -7886,7 +7886,7 @@ Well my baby calls me the Loch Ness Monster
 Two great big humps and then I’m gone
 But actually I am the Abominable Snowman
 And I guess I’ve loved you for too long"
-Heathen Child,Grinderman 2,"Hey little Moo Moo
+Heathen Child,Grinderman 2,Grinderman,2010,"Hey little Moo Moo
 Light as a rainbow
 Happy as an asteroid
 Crashed in the bathtub
@@ -7955,7 +7955,7 @@ She’s a heathen child
 She’s a real wild child
 
 Down child! Down child!"
-When My Baby Comes,Grinderman 2,"Thank God we don’t get all our hurts
+When My Baby Comes,Grinderman 2,Grinderman,2010,"Thank God we don’t get all our hurts
 At once that would be really really bad thing
 When my baby comes
 Thank God we don’t get all our olds at the one time
@@ -8002,7 +8002,7 @@ Just how long you gonna be, my baby?
 Until you come?
 When she comes
 When she comes"
-What I Know,Grinderman 2,"Yes, I know
+What I Know,Grinderman 2,Grinderman,2010,"Yes, I know
 I know
 I know it
 From the day
@@ -8031,7 +8031,7 @@ I know
 Never
 Ever
 No"
-Evil,Grinderman 2,"O baby, baby, baby!
+Evil,Grinderman 2,Grinderman,2010,"O baby, baby, baby!
 O my precious baby!
 
 O baby, baby, baby!
@@ -8077,7 +8077,7 @@ O cling to me little baby in this broken dream
 And let me protect you from this evil
 
 Evil! Evil! Evil! Evil!"
-Kitchenette,Grinderman 2,"I keep hanging around your kitchenette
+Kitchenette,Grinderman 2,Grinderman,2010,"I keep hanging around your kitchenette
 And I’m gonna get a pot to cook you in
 I stick my fingers in your biscuit jar
 And crush all your gingerbread men
@@ -8123,7 +8123,7 @@ I want you to be my girlfriend
 Yeah, I want you
 Yeah, I want to be your solitary man
 I wanna be that man!"
-Palaces of Montezuma,Grinderman 2,"Psychedelic invocations
+Palaces of Montezuma,Grinderman 2,Grinderman,2010,"Psychedelic invocations
 Of Mata Hari at the station
 I give to you
 A Java princess of Hindu birth
@@ -8165,7 +8165,7 @@ For me to hold
 C’mon baby, come out of the cold
 And gimme gimme gimme your precious love
 For me to hold"
-Bellringer Blues,Grinderman 2,"I saw my old friend Gabriel
+Bellringer Blues,Grinderman 2,Grinderman,2010,"I saw my old friend Gabriel
 Down the perimeter ringing a bell
 I said hello
 Hey man is there something wrong?
@@ -8211,7 +8211,7 @@ It’s okay Joe it’s time to go!
 It’s okay Joe it’s time to go!
 It’s okay Joe it’s time to go!
 It’s okay Joe it’s time to go!"
-We No Who U R,Push The Sky Away,"The tree don’t care what the little bird sings
+We No Who U R,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"The tree don’t care what the little bird sings
 We go down with the dew in the morning
 The trees don’t know what the little bird brings
 We go down with the dew in the morning
@@ -8236,7 +8236,7 @@ And we know there’s no need to forgive
 And we know who you are
 And we know where you live
 And we know there’s no need to forgive"
-Wide Lovely Eyes,Push The Sky Away,"You wave at the sky with wide lovely eyes
+Wide Lovely Eyes,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"You wave at the sky with wide lovely eyes
 Waves and waves of love goodbye
 Through the garden with your secret key
 Down the tunnel that leads to the sea
@@ -8264,7 +8264,7 @@ And arrange your shoes side by side
 You wave and wave with wide lovely eyes
 Distant waves and waves of distant love
 You wave and say goodbye"
-Water’s Edge,Push The Sky Away,"They take apart their bodies like toys for the local boys
+Water’s Edge,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"They take apart their bodies like toys for the local boys
 Because they’re always there at the edge of the water
 They come from the capital these city girls
 Go way down where the stones meet the sea
@@ -8313,7 +8313,7 @@ It’s the will of love
 It’s the thrill of love
 Ah but the chill of love
 Is comin’ down, people"
-Jubilee Street,Push The Sky Away,"On Jubilee Street
+Jubilee Street,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"On Jubilee Street
 There was a girl named Bee
 She had a history
 But she had no past
@@ -8358,7 +8358,7 @@ I am vibrating
 I am glowing
 I am flying
 Look at me now"
-Mermaids,Push The Sky Away,"She was a catch
+Mermaids,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"She was a catch
 We were a match
 I was the match
 That would fire up her snatch
@@ -8403,7 +8403,7 @@ All the ones who come
 And the ones who go
 Down to the sea
 Push The Sky Away"
-We Real Cool,Push The Sky Away,"Who took your measurements
+We Real Cool,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"Who took your measurements
 From your toes to the top of your head?
 Who bought you clothes and new shoes
 And wrote you a book you never read?
@@ -8450,7 +8450,7 @@ Who was it?
 Yeah, you know we real cool
 I hope you hear me
 And you’ll call"
-Finishing Jubilee Street,Push The Sky Away,"I just finished writing Jubilee Street
+Finishing Jubilee Street,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"I just finished writing Jubilee Street
 I lay down on my bed and fell into a deep sleep
 And when I awoke I believed
 I had taken a bride called Mary Stanford
@@ -8471,7 +8471,7 @@ All of this in her dark hair
 All of this in her dark hair oh Lord
 See that girl comin’ on down
 See that girl comin’ on down"
-Higgs Boson Blues,Push The Sky Away,"Can’t remember anything at all
+Higgs Boson Blues,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"Can’t remember anything at all
 Flame trees lined the street
 Can’t remember anything at all
 But I’m driving my car down to Geneva
@@ -8535,7 +8535,7 @@ Rainy days always make me sad
 Miley Cyrus floats in a swimming pool in Taluca Lake
 And you’re the best girl I ever had
 Can’t remember anything at all"
-Push The Sky Away,Push The Sky Away,"I was riding, I was riding
+Push The Sky Away,Push The Sky Away,Nick Cave and the Bad Seeds,2013,"I was riding, I was riding
 The sun was rising up from the fields
 I got a feeling I just can’t shake
 I got a feeling that just won’t go away
@@ -8553,7 +8553,7 @@ And some people say it’s just rock and roll
 Oh but it gets you right down to your soul
 You’ve gotta just keep on pushing
 Push the sky away"
-Jesus Alone,Skeleton Tree,"You fell from the sky
+Jesus Alone,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"You fell from the sky
 Crash landed in a field
 Near the river Adur
 Flowers spring from the ground
@@ -8578,7 +8578,7 @@ With my voice
 I am calling you
 You’re an African doctor harvesting tear ducts
 You believe…"
-Rings of Saturn,Skeleton Tree,"Upside down and inside out and on all eights like a funnel web, like a black fly on the ceiling, skinny white haunches high and skyward and her black oily gash, crawling backwards across the carpet to smash all over everything her wet, black fur against the sun going down over the shops and the cars and the crowds and the town.
+Rings of Saturn,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"Upside down and inside out and on all eights like a funnel web, like a black fly on the ceiling, skinny white haunches high and skyward and her black oily gash, crawling backwards across the carpet to smash all over everything her wet, black fur against the sun going down over the shops and the cars and the crowds and the town.
 
 And this is the moment this is exactly what she is born to be
 This is what she does and this is what she is.
@@ -8598,7 +8598,7 @@ And this is the moment this is exactly what she is born to be
 This is what she does and this is what she is.
 
 And now she’s jumping up with her leaping brain, stepping over heaps of sleeping children, disappearing and further up and spinning out again, up and further up she goes, up and out of the bed, up and out of the bed and down the hall where she stops for a moment and turns and says “Are you still here?” and then reaches high and dangles herself like a child’s dream from the ring of Saturn."
-Girl in Amber,Skeleton Tree,"Some go on, some stay behind, some never move at all
+Girl in Amber,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"Some go on, some stay behind, some never move at all
 Girl in amber, trapped forever, spinning down the hall
 Let no part of her go unremembered, clothes across the floor
 Girl in amber, long does slumber, shuts the bathroom door
@@ -8636,7 +8636,7 @@ Don’t touch me
 Don’t touch me
 Don’t touch me
 Don’t touch me"
-Magneto,Skeleton Tree,"Oh, mostly I never knew which way was out
+Magneto,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"Oh, mostly I never knew which way was out
 Once it was on, it was on, and that was that
 The umbilicus was a faucet that fountained rabid blood
 And I spun on my wheel like a laboratory rat
@@ -8670,7 +8670,7 @@ Of love I love you love I love you love I laugh you laugh
 I move you move you move and one more time with feeling
 I love you love I laugh you laugh we saw each other in half
 And all the stars are splashed and splattered across the ceiling"
-Anthrocene,Skeleton Tree,"Oh the fine wind is gone
+Anthrocene,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"Oh the fine wind is gone
 And this sweet world is so much older
 The animals pull the night around their shoulders
 The flowers fall to their naked knees
@@ -8701,7 +8701,7 @@ It’s a long way back and I’m begging you please
 To come home now. Come home now
 I heard you’ve been out looking for something to love
 Close your eyes, little world, and brace yourself."
-I Need You,Skeleton Tree,"When you’re feeling like a lover
+I Need You,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"When you’re feeling like a lover
 Nothing really matters anymore
 I saw you standing there
 In the supermarket
@@ -8765,7 +8765,7 @@ I need you
 Just breathe
 Just breathe
 I need you"
-Distant Sky,Skeleton Tree,"Let us go now, my one true love
+Distant Sky,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"Let us go now, my one true love
 Call the gasman, cut the power out
 We can set out, we can set out for the distant skies
 Watch the sun, watch it rising in your eyes
@@ -8784,7 +8784,7 @@ Let us go now, my only companion
 Set out for the distant skies
 Soon the children will be rising, will be rising
 This is not for our eyes"
-Skeleton Tree,Skeleton Tree,"Sunday morning
+Skeleton Tree,Skeleton Tree,Nick Cave and the Bad Seeds,2016,"Sunday morning
 Skeleton tree
 Well nothing is for free
 In the window
@@ -8816,7 +8816,7 @@ Nothing is for free
 And it’s all right now
 And it’s all right now
 And it’s all right now"
-The Spinning Song,Ghosteen,"Once there was a song
+The Spinning Song,Ghosteen,Nick Cave and the Bad Seeds,2019,"Once there was a song
 The song yearned to be sung
 It was a spinning song
 About the king of rock ‘n’ roll
@@ -8875,7 +8875,7 @@ Peace will come in time
 A time will come
 A time will come
 A time will come for us"
-Bright Horses,Ghosteen,"The bright horses have broken free from the fields
+Bright Horses,Ghosteen,Nick Cave and the Bad Seeds,2019,"The bright horses have broken free from the fields
 They are horses of love, their manes full of fire
 They are parting the cities, those bright burning horses
 And everyone is hiding, no one makes a sound
@@ -8908,7 +8908,7 @@ Well there are some things
 That are hard to explain
 But my baby’s coming home now
 On the 5.30 train"
-Waiting For You,Ghosteen,"All through the night we drove
+Waiting For You,Ghosteen,Nick Cave and the Bad Seeds,2019,"All through the night we drove
 And the wind caught her hair
 And we parked on the beach
 In the cool evening air
@@ -8945,7 +8945,7 @@ Waiting for you
 To return
 To return
 To return"
-Night Raid,Ghosteen,"There’s a picture of Jesus lying in his mother’s arms
+Night Raid,Ghosteen,Nick Cave and the Bad Seeds,2019,"There’s a picture of Jesus lying in his mother’s arms
 Shuttered windows, cars humming on the street below
 The fountain throbbed in the lobby of the Grand Hotel
 We checked into room thirty-three well, well
@@ -8977,7 +8977,7 @@ And we all rose up from our wonder
 We will never admit defeat
 And we leaned out of the window
 And watched the horses in the street"
-Sun Forest,Ghosteen,"I lay in the forest amongst the butterflies and the fireflies and the burning horses and the flaming trees, as a spiral of children climb up to the sun, waving goodbye to you and goodbye to me as the past pulls away and the future begins, I say goodbye to all that as the future rolls in, like a wave, like a wave, and the past with its savage undertow, lets go.
+Sun Forest,Ghosteen,Nick Cave and the Bad Seeds,2019,"I lay in the forest amongst the butterflies and the fireflies and the burning horses and the flaming trees, as a spiral of children climb up to the sun, waving goodbye to you and goodbye to me as the past pulls away and the future begins, I say goodbye to all that as the future rolls in, like a wave, like a wave, and the past with its savage undertow, lets go.
 
 Come on everyone, come on everyone
 A spiral of children climbs up to the sun
@@ -9001,7 +9001,7 @@ I am beside you
 I am within
 In the sunshine
 In the sun"
-Galleon Ship,Ghosteen,"If I could sail a galleon ship
+Galleon Ship,Ghosteen,Nick Cave and the Bad Seeds,2019,"If I could sail a galleon ship
 Long lonely rider cross the sky
 Seek out mysteries while you sleep
 And treasures money cannot buy
@@ -9031,7 +9031,7 @@ And if we rise, my love
 Oh my darling precious one
 We’ll stand and watch the galleon ships
 Circle around the morning sun"
-Ghosteen Speaks,Ghosteen,"I am beside you
+Ghosteen Speaks,Ghosteen,Nick Cave and the Bad Seeds,2019,"I am beside you
 I am beside you
 I am beside you
 I am beside you
@@ -9063,7 +9063,7 @@ I am beside you
 You are beside me
 You are beside me
 Look for me"
-Leviathan,Ghosteen,"Oh my oh my oh my
+Leviathan,Ghosteen,Nick Cave and the Bad Seeds,2019,"Oh my oh my oh my
 I love my baby and my baby loves me
 Oh my oh my oh my
 I love my baby and my baby loves me
@@ -9084,7 +9084,7 @@ I love my baby and my baby loves me
 Oh my oh my oh my
 Oh my oh my oh my
 I love my baby and my baby loves me"
-Ghosteen,Ghosteen,"This world is beautiful
+Ghosteen,Ghosteen,Nick Cave and the Bad Seeds,2019,"This world is beautiful
 Held within its stars
 I keep it in my heart
 The stars are your eyes
@@ -9146,7 +9146,7 @@ That rise from their blood and walk
 Well  the moon won’t get a wink of sleep
 If I stay all night and talk
 If I stay all night and talk"
-Fireflies,Ghosteen,"Jesus lying in his mother’s arms
+Fireflies,Ghosteen,Nick Cave and the Bad Seeds,2019,"Jesus lying in his mother’s arms
 Is a photon released from a dying star
 We move through the forest at night
 The sky is full of momentary light
@@ -9172,7 +9172,7 @@ Nothing can be predicted and nothing can be planned
 A star is just the memory of a star
 We are fireflies pulsing dimly in the dark
 We are here and you are where you are"
-Hollywood,Ghosteen,"The fires continued through the night
+Hollywood,Ghosteen,Nick Cave and the Bad Seeds,2019,"The fires continued through the night
 The kid with a bat face appeared at the window
 Then disappeared into the headlights
 
@@ -9256,7 +9256,7 @@ It’s a long way to find peace of mind, peace of mind
 And I’m just waiting now for my time to come
 And I’m just waiting now for peace to come
 For peace to come"
-Hand of God,Carnage,"There are some people trying to find out who
+Hand of God,Carnage,Nick Cave and Warren Ellis,2021,"There are some people trying to find out who
 There are some people trying to find out why
 There are some people aren’t trying to find anything
 But that kingdom in the sky
@@ -9317,7 +9317,7 @@ Gonna swim to the middle
 Stay out there a while
 Let the river cast its spell
 On me"
-Old Time,Carnage,"Wide black trees and a field of frost
+Old Time,Carnage,Nick Cave and Warren Ellis,2021,"Wide black trees and a field of frost
 Birds fly low and you and me and the car are lost
 We took a wrong turn somewhere
 Into the old time
@@ -9358,7 +9358,7 @@ I’m not coming back this time
 Like the old times
 Like old times
 Wherever you are, darling, I’m not that far behind"
-Carnage,Carnage,"I always seem to be saying goodbye
+Carnage,Carnage,Nick Cave and Warren Ellis,2021,"I always seem to be saying goodbye
 And rolling through the mountains
 Like a train
 My uncle’s at the chopping block
@@ -9393,7 +9393,7 @@ It’s only love
 And it comes on like a train
 Rolling down the mountains
 In the rain"
-White Elephant,Carnage,"The white hunter sits on his porch
+White Elephant,Carnage,Nick Cave and Warren Ellis,2021,"The white hunter sits on his porch
 With his elephant gun and his tears
 He’ll shoot you for free
 If you come around here
@@ -9455,7 +9455,7 @@ We’re all coming home
 In a while
 
 For Thomas H"
-Albuquerque,Carnage,"This morning crawls towards us, darling
+Albuquerque,Carnage,Nick Cave and Warren Ellis,2021,"This morning crawls towards us, darling
 With a memory in its paws
 A child swims between two boats
 Her mother waving from the shore, darling
@@ -9476,7 +9476,7 @@ And we won’t get to Albuquerque
 Anytime this year
 And we won’t get to anywhere, baby
 Unless you take me there"
-Lavender Fields,Carnage,"I am travelling appallingly alone
+Lavender Fields,Carnage,Nick Cave and Warren Ellis,2021,"I am travelling appallingly alone
 On a singular road
 Into the lavender fields
 That reach high beyond the sky
@@ -9524,7 +9524,7 @@ We don’t ask who
 We don’t ask why
 There is a kingdom in the sky
 There is a kingdom in the sky"
-Shattered Ground,Carnage,"The moon in the night sky, with pale eyes
+Shattered Ground,Carnage,Nick Cave and Warren Ellis,2021,"The moon in the night sky, with pale eyes
 And pale skin and long hair covering her naked body
 And sometimes she’s laughing and sometimes she’s crying
 And sometimes the moon is talking to nobody
@@ -9575,7 +9575,7 @@ Goodbye
 Goodbye
 Oh baby
 Goodbye"
-Balcony Man,Carnage,"What am I to believe?
+Balcony Man,Carnage,Nick Cave and Warren Ellis,2021,"What am I to believe?
 I’m the balcony man
 Where everything is ordinary until it is not
 I’m the balcony man
@@ -9609,7 +9609,7 @@ This morning is amazing and so are you
 This morning is amazing and so are you
 You are languid and lovely and lazy
 And what doesn’t kill you just makes you crazier"
-Wild God,Wild God,"Once upon a time a wild god zoomed
+Wild God,Wild God,Nick Cave and the Bad Seeds,2024,"Once upon a time a wild god zoomed
 All through his memory in which he was entombed
 
 It was rape and pillage in the retirement village
