@@ -22,6 +22,9 @@ Additionally,
 
 ## Changelog
 
+### 2024 Aug 25
+- Created `lyrics.csv` with individual, previous, and next lines.
+
 ### 2024 Aug 24
 - Only files now are `songs.csv` and `songs.json`.
 - Updated license.
