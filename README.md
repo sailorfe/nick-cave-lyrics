@@ -19,12 +19,13 @@ Additionally,
 - I will not edit *DIG!!! LAZARUS DIG!!!* for legibility.
 - "Hollywood" includes a four asterik ("****") divider because Nick does
 - "White Elephant" includes a dedication "*For Thomas H*"
-- AT SOME POINT: Will transcribe The Birthday Party lyrics from *Prayers on Fire*, *Junkyard*, *The Bad Seed*, *Burning the Ice*, and *Mutiny!* printed in *The Complete Lyrics*.
+- AT SOME POINT: Will transcribe The Birthday Party-era lyrics from *Prayers on Fire*, *Junkyard*, *The Bad Seed*, *Burning the Ice* (Die Haut), and *Mutiny!* printed in *The Complete Lyrics*.
 
 ## Changelog
 
 ### 2024 Aug 26
-- Added artist to lyrics.json for potential future filtering
+- Added artist to `lyrics.json` for future filtering.
+- Added 1978-83 songs from *The Complete Lyrics* to `songs.csv`.
 
 ### 2024 Aug 25
 - Inserted choruses on "Babe, I'm On Fire" and "Let the Bells Ring."
