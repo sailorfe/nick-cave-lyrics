@@ -17,9 +17,9 @@ Kind of foolish to start this a week before *Wild God*, but here I am. This temp
 Additionally,
 
 - I will not edit *DIG!!! LAZARUS DIG!!!* for legibility.
-- "Hollywood" include a four asterik ("****") divider because Nick does
+- "Hollywood" includes a four asterik ("****") divider because Nick does
 - "White Elephant" includes a dedication "*For Thomas H*"
-- It would be nice to have The Birthday Party/Boys Next Door, but the project's whole thing is fidelity to his published lyrics.
+- AT SOME POINT: Will transcribe The Birthday Party lyrics in *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013) from *Prayers on Fire*, *Junkyard*, *The Bad Seed*, *Burning the Ice*, and *Mutiny!*
 
 ## Changelog
 
