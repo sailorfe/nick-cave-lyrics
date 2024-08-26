@@ -3,8 +3,8 @@
 Kind of foolish to start this a week before *Wild God*, but here I am. This template's scraper uses Genius API but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤). The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
 
 - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
-- "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text.
-- "Let the Bell Ring:" Replaced his "(Chorus)"'s with thie chorus text.
+- "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text, per *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013).
+- "Let the Bell Ring:" Replaced his "(Chorus)"'s with thie chorus tex, per *The Complete Lyrics*.
 - "O Children:" Was missing spaces after each "Hey little train!"
 - All of *Grinderman 2* except for "Palaces of Montezuma:" Removed double linebreaks.
 - "Anthrocene:" Removed double linebreaks.
