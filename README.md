@@ -23,6 +23,9 @@ Additionally,
 
 ## Changelog
 
+### 2024 Aug 26
+- Added artist to lyrics.json for potential future filtering
+
 ### 2024 Aug 25
 - Inserted choruses on "Babe, I'm On Fire" and "Let the Bells Ring."
 - Created `lyrics.json` with individual, previous, and next lines.
