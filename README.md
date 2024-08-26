@@ -1,6 +1,6 @@
 # Nick Cave lyric database
 
-Kind of foolish to start this a week before *Wild God*, but here I am. This template's scraper uses Genius API but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤). The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
+Kind of foolish to start this a week before *Wild God*, but here I am. This template's scraper uses Genius API but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤) and we have *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013). The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
 
 - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
 - "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text, per *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013).
@@ -19,7 +19,7 @@ Additionally,
 - I will not edit *DIG!!! LAZARUS DIG!!!* for legibility.
 - "Hollywood" includes a four asterik ("****") divider because Nick does
 - "White Elephant" includes a dedication "*For Thomas H*"
-- AT SOME POINT: Will transcribe The Birthday Party lyrics in *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013) from *Prayers on Fire*, *Junkyard*, *The Bad Seed*, *Burning the Ice*, and *Mutiny!*
+- AT SOME POINT: Will transcribe The Birthday Party lyrics from *Prayers on Fire*, *Junkyard*, *The Bad Seed*, *Burning the Ice*, and *Mutiny!* printed in *The Complete Lyrics*.
 
 ## Changelog
 
