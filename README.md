@@ -2,7 +2,7 @@
 
 Lyrics Nick Cave has published for The Birthday Party, Nick Cave & The Bad Seeds, Grinderman, and *Carnage* compiled from [his official website](https://www.nickcave.com/lyrics/) and *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013).
 
-The Bad Seeds and Grinderman lyrics are verbatim from besides these:
+The Bad Seeds and Grinderman lyrics are verbatim from his website, with exceptions:
 
 - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
 - "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text.
@@ -16,7 +16,13 @@ The Bad Seeds and Grinderman lyrics are verbatim from besides these:
 - All of *Carnage*: Removed double linebreaks.
 - "Wild God": Removed double linebreaks, and I suspect will do for the rest of the album.
 
-The Birthday Party and other lyrics prior to 1984 are from *The Complete Lyrics*. As of 2024-08-27, I have no plans to include these 1984–2013 songs included in *The Complete Lyrics* but not part of any albums:
+Not quite editorializations but other things to note:
+
+- "Mutiny in Heaven:" Really looks best on a printed page. My indentations are a sorry approximation of the form he intended. Quite sculptural!
+- "Hollywood:" Includes his four-asterisk divider.
+- "White Elephant:" Includes his dedication to Thomas Houseago.
+
+As of 2024-08-27, I have no plans to include these 1984–2013 songs included in *The Complete Lyrics* but not part of any albums:
 
 - 1984: "The Moon is in the Gutter," "Just a Closer Walk with Thee," "The Six Strings that Drew Blood," "Oh I Love You Too Much"
 - 1985: "Scum"
