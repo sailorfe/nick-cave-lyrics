@@ -1,10 +1,12 @@
 # Nick Cave lyric database
 
-Kind of foolish to start this a week before *Wild God*, but here I am. This template's scraper uses Genius API but as far as I'm concerned, any lyric website is a secondary source when Nick Cave publishes all NC&TBS and Grinderman himself (old man blogger 🖤) and we have *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013). The lyrics in this dataset are all copy and pasted verbatim from [Nick Cave's official website](https://www.nickcave.com/lyrics/) as of 2024/08/22 besides these editorial choices:
+Lyrics Nick Cave has published for The Birthday Party, Nick Cave & The Bad Seeds, Grinderman, and *Carnage* compiled from [his official website](https://www.nickcave.com/lyrics/) and *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013).
+
+The Bad Seeds and Grinderman lyrics are verbatim from besides these:
 
 - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
-- "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text, per *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013).
-- "Let the Bell Ring:" Replaced his "(Chorus)"'s with thie chorus tex, per *The Complete Lyrics*.
+- "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text.
+- "Let the Bell Ring:" Replaced his "(Chorus)"'s with thie chorus text.
 - "O Children:" Was missing spaces after each "Hey little train!"
 - All of *Grinderman 2* except for "Palaces of Montezuma:" Removed double linebreaks.
 - "Anthrocene:" Removed double linebreaks.
@@ -14,11 +16,23 @@ Kind of foolish to start this a week before *Wild God*, but here I am. This temp
 - All of *Carnage*: Removed double linebreaks.
 - "Wild God": Removed double linebreaks, and I suspect will do for the rest of the album.
 
-Additionally,
+The Birthday Party and other lyrics prior to 1984 are from *The Complete Lyrics*. As of 2024-08-27, I have no plans to include these 1984–2013 songs included in *The Complete Lyrics* but not part of any albums:
 
-- I will not edit *DIG!!! LAZARUS DIG!!!* for legibility.
-- "Hollywood" includes a four asterik ("****") divider because Nick does
-- "White Elephant" includes a dedication "*For Thomas H*"
+- 1984: "The Moon is in the Gutter," "Just a Closer Walk with Thee," "The Six Strings that Drew Blood," "Oh I Love You Too Much"
+- 1985: "Scum"
+- 1986: "God's Hotel"
+- 1988: "Girl at the Bottom of My Glass," "That's What Jazz is to Me"
+- 1990: "The Train Song"
+- 1992: "Faraway, So Close!", "Cassiel's Song," "Blue Bird"
+- 1994: "Sail Away," "(I'll Love You) Till the End of the World," "What Can I Give You?"
+- 1996: "The Ballad of Robert Moore and Betty Coltrane," "There is a Light," "Time Jesum Transeuntum Et Non Revertentum"
+- 1997: "Little Empty Boat," "Come Into My Sleep," "Rigth Now, I am A-Roaming," "Babe, I Got You Bad," "The Bridle Path," "Wife," "Opium Tea," "The Sweetest Embrace," "Little Water Song," "Still Your Face Comes Shining Through," "Sweet Little Sleep," "Sheep May Safely Graze"
+- 2001: "Little Janey's Gone," "A Grief Came Riding," "A Good, Good Day," "Bless His Ever-Loving Heart"
+- 2003: "Shoot Me Down," "Swing Low," "Everything Must Converge"
+- 2004: "She's Leaving You," "Under His Moon"
+- 2005: Music from *The Proposition* (Soundtrack from the Film, 2005)
+- 2007: "Chain of Flowers"
+- 2013: "Needle Boy," "Lightning Bolts"
 
 ## Changelog
 
