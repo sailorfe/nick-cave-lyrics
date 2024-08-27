@@ -64,3 +64,4 @@ The Birthday Party and other lyrics prior to 1984 are from *The Complete Lyrics*
 - [csvkit](https://github.com/wireservice/csvkit)
 - [csv2json](https://github.com/julien-f/csv2json)
 - listening on [spotify-player](https://github.com/aome510/spotify-player)
+- Shayna Kothari, I didn't end up using the Genius API scraper but the structure of [shaynak/taylor-swift](https://github.com/shaynak/taylor-swift) inspired this!!
