@@ -25,6 +25,7 @@ Not quite editorializations but other things to note:
 ## Changelog
 
 ### 2024-08-27
+- Fixed verse breaks on "Mickey Mouse and the Goodbye Man" and "Heathen Child."
 - Removed "Long Time Man."
 - Added "Needle Boy" and "Lightning Bolts."
 - Deleted `songs.csv`.
