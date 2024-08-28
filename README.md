@@ -2,25 +2,24 @@
 
 Lyrics Nick Cave has published for The Birthday Party, Nick Cave & The Bad Seeds, Grinderman, and *Carnage* compiled from [his official website](https://www.nickcave.com/lyrics/) and *Nick Cave The Complete Lyrics 1978–2013* (Penguin Books, 2013).
 
-The Bad Seeds and Grinderman lyrics are verbatim from his website, with exceptions:
-
-- "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
-- "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text.
-- "Let the Bell Ring:" Replaced his "(Chorus)"'s with thie chorus text.
-- "O Children:" Was missing spaces after each "Hey little train!"
-- All of *Grinderman 2* except for "Palaces of Montezuma:" Removed double linebreaks.
-- "Anthrocene:" Removed double linebreaks.
-- "I Need You:" Removed double linebreaks.
-- "Distant Sky:" [Does not currently have a lyric up](https://www.nickcave.com/lyric/distant-sky/), so this is transcribed.
-- "Skeleton Tree:" Removed double linebreaks.
-- All of *Carnage*: Removed double linebreaks.
-- "Wild God": Removed double linebreaks, and I suspect will do for the rest of the album.
-
-Not quite editorializations but other things to note:
+## Editorial Notes
 
 - "Mutiny in Heaven:" Really looks best on a printed page. My indentations are a sorry approximation of the form he intended. Quite sculptural!
 - "Hollywood:" Includes his four-asterisk divider.
 - "White Elephant:" Includes his dedication to Thomas Houseago.
+- The Bad Seeds and Grinderman lyrics are verbatim from his website, with exceptions:
+    - "There Is A Kingdom:" Added linebreak that looked missing between "Just like a bird  / That sings up the sun"
+    - "Babe, I'm On Fire:" Replaced his "Chorus"'s with the chorus text.
+    - "Let the Bell Ring:" Replaced his "(Chorus)"'s with thie chorus text.
+    - "O Children:" Was missing spaces after each "Hey little train!"
+    - All of *Grinderman 2* except for "Palaces of Montezuma:" Removed double linebreaks.
+    - "Anthrocene:" Removed double linebreaks.
+    - "I Need You:" Removed double linebreaks.
+    - "Distant Sky:" [Does not currently have a lyric up](https://www.nickcave.com/lyric/distant-sky/), so this is transcribed.
+    - "Skeleton Tree:" Removed double linebreaks.
+    - All of *Carnage*: Removed double linebreaks.
+    - "Wild God": Removed double linebreaks, and I suspect will do for the rest of the album.
+- 1984–2013 non-album exclusions are listed in `exclusions.md`. 
 
 ## Changelog
 
