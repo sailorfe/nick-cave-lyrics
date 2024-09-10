@@ -23,7 +23,12 @@ Lyrics Nick Cave has published for The Birthday Party, Nick Cave & The Bad Seeds
 
 ## Changelog
 
+### 2024-09-10
+
+- Added *Wild God*.
+
 ### 2024-08-27
+
 - Fixed verse breaks on "Mickey Mouse and the Goodbye Man" and "Heathen Child."
 - Removed "Long Time Man."
 - Added "Needle Boy" and "Lightning Bolts."
